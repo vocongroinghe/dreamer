@@ -1,0 +1,3500 @@
+{
+  "txt_region": {
+    "vi": "Khu Vực",
+    "en": "Region",
+    "my": "တိုင်းဒေသကြီး",
+    "lo": "ພາກພື້ນ"
+  },
+  "txt_request_cashin_success": {
+    "vi": "Gửi yêu cầu thành công!",
+    "en": "Send request successfully!",
+    "my": "တောင်းဆိုချက်အားအောင်မြင်စွာပေးပို့ပြီးပါပြီ!",
+    "lo": "ສົ່ງຄຳຮ້ອງຂໍສຳເລັດແລ້ວ!"
+  },
+  "txt_agency_name": {
+    "vi": "Tên đại lý",
+    "en": "Agency's name",
+    "my": "အေးဂျင့်၏အမည်",
+    "lo": "ຊື່ຕົວແທນ"
+  },
+  "txt_receive_money": {
+    "vi": "Số tiền nhận:",
+    "en": "Money received:",
+    "my": "ငွေလက်ခံရရှိပါသည်။:",
+    "lo": "ເງິນທີ່ໄດ້ຮັບ!"
+  },
+  "txt_trans_id": {
+    "vi": "Mã giao dịch",
+    "en": "Transaction's ID",
+    "my": "ငွေလွှဲခြင်း၏ နံပါတ်",
+    "lo": "ID ຂອງທຸລະກໍາ"
+  },
+  "txt_agency_info": {
+    "vi": "Thông Tin Đại Lý",
+    "en": "Agency's Information",
+    "my": "အေဂျင်စီ၏အချက်အလက်များ",
+    "lo": "ຂໍ້ມູນຂອງຕົວແທນ"
+  },
+  "txt_trans": {
+    "vi": "Giao Dịch",
+    "en": "Transaction",
+    "my": "ငွေလွှဲခြင်း",
+    "lo": "ທຸລະກໍາ"
+  },
+  "txt_view": {
+    "vi": "Xem",
+    "en": "View",
+    "my": "အသေးစိတ်သိရှိနိုင်ရန်",
+    "lo": "ເບິ່ງ"
+  },
+  "txt_user_bank_account": {
+    "vi": "Ngân hàng của tôi",
+    "en": "My bank account",
+    "my": "မိမိ၏ဘဏ်အကောင့်",
+    "lo": "ບັນຊີທະນາຄານຂອງຂ້ອຍ"
+  },
+  "txt_agency_bank_account": {
+    "vi": "Ngân hàng đại lý",
+    "en": "Agency bank account",
+    "my": "အေဂျင်စီ၏ဘဏ်အကောင့်",
+    "lo": "ບັນຊີທະນາຄານຂອງຕົວແທນ"
+  },
+  "txt_confirm_info": {
+    "vi": "Xác Nhận Thông Tin",
+    "en": "Confirm Transaction Information",
+    "my": "ငွေလွှဲခြင်းဆိုင်ရာ အချက်လက် မှန်ကန်မှုရှိ/မရှိ ကို အတည်ပြုပါ။",
+    "lo": "ຢືນຢັນຂໍ້ມູນ"
+  },
+  "txt_slot_bonus": {
+    "vi": "Chọn một phần quà để nhận hệ số nhân\nkhi chơi  game Bonus anh nhé!",
+    "en": "Choose a gift to get a multiplier\nwhen you play Bonus game!",
+    "my": "သင် Bonus Game ကိုဆော့ကစားသည့်အခါ လက်ဆောင်တခုကိုရွေးချယ်ပါ သို့မှသာလျှင် ဆပွါးဂိမ်းများရရှိမည်ဖြစ်သည်။",
+    "lo": "ເລືອກຂອງຂວັນເພື່ອຮັບຕົວຄູນ/nເມື່ອທ່ານຫລິ້ນເກມໂບນັດ!"
+  },
+  "txt_slot_multiplier": {
+    "vi": "Hệ số",
+    "en": "Multiplier",
+    "my": "ဆပွါးဂိမ်း ။",
+    "lo": "ຕົວຄູນ"
+  },
+  "txt_slot_turn": {
+    "vi": "Lượt",
+    "en": "Turn",
+    "my": "လှည့်ပါ။",
+    "lo": "ຫນ້າທີ"
+  },
+  "txt_slot_line_bet": {
+    "vi": "D.Đặt",
+    "en": "Bet lines",
+    "my": "လောင်းကစားလိုင်းများ",
+    "lo": "ເດີມພັນ"
+  },
+  "txt_contact": {
+    "vi": "Liên Hệ",
+    "en": "Contact",
+    "my": "လောင်းကြေးလိုင်းများအားဆက်သွယ်ရန်",
+    "lo": "ຕິດຕໍ່"
+  },
+  "txt_stt": {
+    "vi": "STT",
+    "en": "No.",
+    "my": "No.",
+    "lo": "ລໍາດັບຕົວເລກ"
+  },
+  "txt_status": {
+    "vi": "Trạng Thái",
+    "en": "Status",
+    "my": "Status",
+    "lo": "ສະຖານະ"
+  },
+  "txt_password": {
+    "vi": "Mật khẩu",
+    "en": "Password",
+    "my": "လျို့ဝှက်နံပါတ်",
+    "lo": "ລະຫັດຜ່ານ"
+  },
+  "txt_confirm_password": {
+    "vi": "Xác nhận mật khẩu",
+    "en": "Confirm password",
+    "my": "လျို့ဝှက်နံပါတ်ကိုအတည်ပြုပါ",
+    "lo": "ຢືນ​ຢັນ​ລະ​ຫັດ"
+  },
+  "txt_remember_password": {
+    "vi": "Ghi nhớ mật khẩu",
+    "en": "Remember password",
+    "my": "လျို့ဝှက်နံပါတ်ကို မှတ်ထားပါ။",
+    "lo": "ຈື່ລະຫັດຜ່ານ"
+  },
+  "txt_old_password_incorrect": {
+    "vi": "Mật khẩu cũ không chính xác!",
+    "en": "Old passwords incorrect!",
+    "my": "လျို့ဝှက်နံပါတ်ဟောင်းများ မမှန်ကန်ပါ။!",
+    "lo": "ລະຫັດຜ່ານເກົ່າບໍ່ຖືກຕ້ອງ"
+  },
+  "txt_change_password_success": {
+    "vi": "Thành công!",
+    "en": "success!",
+    "my": "လျို့ဝှက်နံပါတ်ကိုအတည်ပြုပါ",
+    "lo": "ສໍາ​ເລັດ!"
+  },
+  "txt_old_password_not_blank": {
+    "vi": "Mật khẩu cũ không được để trống",
+    "en": "Old password cannot be blank!",
+    "my": "လျို့ဝှက်နံပါတ်ဟောင်းကို ထည့်သွင်းပါ။!",
+    "lo": "ລະຫັດຜ່ານເກົ່າບໍ່ສາມາດຫວ່າງເປົ່າໄດ້!"
+  },
+  "txt_new_password_not_blank": {
+    "vi": "Mật khẩu mới không được để trống",
+    "en": "New password cannot be blank!",
+    "my": "လျို့ဝှက်နံပါတ်အသစ်ကို ထည့်သွင်းပါ။!",
+    "lo": "ລະຫັດຜ່ານໃໝ່ບໍ່ສາມາດຫວ່າງເປົ່າໄດ້!"
+  },
+  "txt_password_not_same": {
+    "vi": "Mật khẩu mới và cũ không được giống nhau!",
+    "en": "New and old password cannot be the same!",
+    "my": "Password အေဟာင္းႏွင့္ အသစ္ တူညီ၍မရပါ!",
+    "lo": "ລະຫັດຜ່ານໃໝ່ ແລະລະຫັດຜ່ານບໍ່ຄືກັນ!"
+  },
+  "txt_password_length_short": {
+    "vi": "Mật khẩu lớn hơn 6 ký tự",
+    "en": "Password must be longer than 6 characters",
+    "my": "လျို့ဝှက်နံပါတ်သည် စာလုံး 6 လုံးထက် ပိုထည့်ရပါမည်။",
+    "lo": "ລະຫັດຜ່ານຈະຕ້ອງຍາວກວ່າ 6 ຕົວອັກສອນ"
+  },
+  "txt_capcha": {
+    "vi": "Nhập mã xác thực",
+    "en": "Enter capcha",
+    "my": "captcha အားရိုက်ထည့်ပါ။",
+    "lo": "ລະຫັດຢືນຢັນ"
+  },
+  "txt_login_facebook": {
+    "vi": "Facebook",
+    "en": "Facebook",
+    "my": "Facebook",
+    "lo": "Facebook"
+  },
+  "txt_register": {
+    "vi": "ĐĂNG KÝ",
+    "en": "REGISTER",
+    "my": "မှတ်ပုံတင်ပါ။",
+    "lo": "ລົງທະບຽນ"
+  },
+  "txt_login": {
+    "vi": "ĐĂNG NHẬP",
+    "en": "LOGIN",
+    "my": "အကောင့်သို့ဝင်ပါ ",
+    "lo": "ເຂົ້າ​ສູ່​ລະ​ບົບ"
+  },
+  "txt_group": {
+    "vi": "GROUP",
+    "en": "GROUP",
+    "my": "အဖွဲ့",
+    "lo": "ກຸ່ມ"
+  },
+  "txt_fanpage": {
+    "vi": "FANPAGE",
+    "en": "FANPAGE",
+    "my": "FANPAGE",
+    "lo": "FANPAGE"
+  },
+  "txt_event": {
+    "vi": "Sự kiện",
+    "en": "Event",
+    "my": "ပွဲစဉ်",
+    "lo": "ເຫດການ"
+  },
+  "txt_lucky_spin": {
+    "vi": "VQMM",
+    "en": "Lucky spin",
+    "my": "Lucky spin",
+    "lo": "Lucky spin"
+  },
+  "txt_cashout": {
+    "vi": "Đổi thẻ",
+    "en": "Card",
+    "my": "ကတ်",
+    "lo": "ປ່ຽນບັດ"
+  },
+  "txt_cashout_2": {
+    "vi": "Rút Tiền",
+    "en": "Cashout",
+    "my": "Cashout",
+    "lo": "ຖອນເງິນ"
+  },
+  "txt_cashout_3": {
+    "vi": "Rút",
+    "en": "Cash out",
+    "my": "ငွေရှင်း",
+    "lo": "ຖອນ"
+  },
+  "txt_card_amount": {
+    "vi": "Mệnh giá thẻ",
+    "en": "Card amount",
+    "my": "ကတ်ထဲရှိငွေပမာဏ",
+    "lo": "ຈຳນວນບັດ"
+  },
+  "txt_card_pin": {
+    "vi": "Mã thẻ",
+    "en": "Card number",
+    "my": "Pin No",
+    "lo": "ຈຳນວນບັດ"
+  },
+  "txt_card_serial": {
+    "vi": "Số Seri",
+    "en": "Card Seri",
+    "my": "ကတ်အမှတ်စဉ်",
+    "lo": "ບັດ Seri"
+  },
+  "txt_giftcode": {
+    "vi": "Giftcode",
+    "en": "Giftcode",
+    "my": "Giftcode",
+    "lo": "Giftcode"
+  },
+  "txt_giftcode_info": {
+    "vi": "Mỗi mã quà tặng chỉ áp dụng cho một tài khoản",
+    "en": "Each gift code applies to only one account",
+    "my": "လက်ဆောင်ကုဒ်တစ်ခုစီသည် အကောင့်တစ်ခုတည်းအတွက်သာ သက်ဆိုင်ပါသည်။",
+    "lo": "ລະຫັດຂອງຂວັນແຕ່ລະອັນໃຊ້ກັບບັນຊີດຽວເທົ່ານັ້ນ"
+  },
+  "txt_giftcode_input": {
+    "vi": "Nhập mã quà tặng",
+    "en": "Enter giftcode here",
+    "my": " လက်ဆောင်ကုဒ်ကို ဤနေရာတွင် ထည့်ပါ။ ",
+    "lo": "ໃສ່ລະຫັດຂອງຂວັນ"
+  },
+  "txt_sms_plus": {
+    "vi": "SMS Plus",
+    "en": "SMS Plus",
+    "my": "SMS Plus",
+    "lo": "SMS Plus"
+  },
+  "txt_safe": {
+    "vi": "Két Sắt",
+    "en": "Safe",
+    "my": "အန္တရာယ်ကင်းသည်။",
+    "lo": "ປອດໄພ"
+  },
+  "txt_cancel": {
+    "vi": "Hủy",
+    "en": "Cancel",
+    "my": "မလုပ်တော့ပါ",
+    "lo": "ຍົກເລີກ"
+  },
+  "txt_confirm": {
+    "vi": "Xác Nhận",
+    "en": "Confirm",
+    "my": "အတည်ပြုပါ။",
+    "lo": "ຢືນຢັນ"
+  },
+  "txt_continue": {
+    "vi": "Tiếp tục",
+    "en": "Continue",
+    "my": "ဆက်လက်လုပ်ဆောင်မည်။",
+    "lo": "ສືບຕໍ່"
+  },
+  "txt_receive": {
+    "vi": "Nhận",
+    "en": "Receive",
+    "my": "လက်ခံရရှိသည်။",
+    "lo": "ຮັບ"
+  },
+  "txt_receive_reward": {
+    "vi": "Nhận Thưởng",
+    "en": "Receive",
+    "my": "လက်ခံရရှိသည်။",
+    "lo": "ຮັບໂບນັດ"
+  },
+  "txt_cash_out": {
+    "vi": "Rút",
+    "en": "Cash out",
+    "my": "ငွေထုတ်ပါ။",
+    "lo": "ຖອນ"
+  },
+  "txt_cash_in": {
+    "vi": "Nạp",
+    "en": "Cash in",
+    "my": "ငွေသွင်းပါ။",
+    "lo": "ເຕີມ"
+  },
+  "txt_nap_rut": {
+    "vi": "Nạp Rút",
+    "en": "Exchange",
+    "my": "လဲလှယ်ပါ။",
+    "lo": "ເຕີມ​ຖອນ"
+  },
+  "txt_history_transaction": {
+    "vi": "LỊCH SỬ GIAO DỊCH",
+    "en": "HISTORY TRANSACTION",
+    "my": "ငွေသွင်းငွေထုတ်မှုမှတ်တမ်း",
+    "lo": "ປະຫວັດທຸລະກຳ"
+  },
+  "txt_play": {
+    "vi": "Chơi",
+    "en": "Play",
+    "my": "ကစားပါ။",
+    "lo": "ຫຼິ້ນ"
+  },
+  "txt_do_mission": {
+    "vi": "Làm",
+    "en": "Go",
+    "my": "သွားပါ",
+    "lo": "ໄປ"
+  },
+  "txt_charge": {
+    "vi": "Nạp",
+    "en": "Charge",
+    "my": "Charge",
+    "lo": "Charge"
+  },
+  "txt_transfer": {
+    "vi": "Chuyển khoản",
+    "en": "Transfer",
+    "my": "ရွေ့ပြောင်းခြင်း",
+    "lo": "ໂອນ"
+  },
+  "txt_transfer_quy": {
+    "vi": "Ch.Quỹ",
+    "en": "Transfer",
+    "my": "ရွေ့ပြောင်းခြင်း",
+    "lo": "ໂອນເງິນ"
+  },
+  "txt_transfer_quy1": {
+    "vi": "CHUYỂN QUỸ",
+    "en": "TRANSFER",
+    "my": "ရွေ့ပြောင်းခြင်း",
+    "lo": "ໂອນເງິນ"
+  },
+  "txt_transfer_code": {
+    "vi": "Mã GD",
+    "en": "ID",
+    "my": "ID",
+    "lo": "ລະຫັດ"
+  },
+  "txt_transfer_info_err": {
+    "vi": "Mã GD",
+    "en": "ID",
+    "my": "ID",
+    "lo": "ລະຫັດ"
+  },
+  "txt_time": {
+    "vi": "Thời Gian",
+    "en": "Time",
+    "my": "Time",
+    "lo": "ເວລາ"
+  },
+  "txt_service": {
+    "vi": "Dịch vụ",
+    "en": "Service",
+    "my": "ဝန်ဆောင်မှု",
+    "lo": "ການບໍລິການ"
+  },
+  "txt_incurred": {
+    "vi": "Phát Sinh",
+    "en": "Incurred",
+    "my": "ကြွေးကျန်။",
+    "lo": "ເກີດຂຶ້ນ"
+  },
+  "txt_balance": {
+    "vi": "Số Dư",
+    "en": "Balance",
+    "my": "Balance",
+    "lo": "ຍອດເງິນ:"
+  },
+  "txt_balance2": {
+    "vi": "Số Dư:",
+    "en": "Balance:",
+    "my": "လက်ကျန်ငွေ",
+    "lo": "ຍອດເງິນ:"
+  },
+  "txt_description": {
+    "vi": "Mô Tả",
+    "en": "Description",
+    "my": "Description",
+    "lo": "ລາຍລະອຽດ"
+  },
+  "txt_phone_input": {
+    "vi": "Nhập số điện thoại",
+    "en": "Phone number",
+    "my": "ဖုန်းနံပါတ်",
+    "lo": "ໃສ່ເບີໂທລະສັບ"
+  },
+  "txt_phone_input1": {
+    "vi": "Số điện thoại không được bỏ trống!",
+    "en": "Phone number cannot be blank!",
+    "my": "ເບີໂທລະສັບບໍ່ສາມາດຫວ່າງເປົ່າໄດ້",
+    "lo": "ဖုန်းနံပါတ် ကို ထည့်သွင်းပါ။"
+  },
+  "txt_captcha_input": {
+    "vi": "Nhập mã xác thực",
+    "en": "Enter captcha",
+    "my": "captcha ထည့်သွင်းပါ။",
+    "lo": "ໃສ່ລະຫັດຢືນຢັນ"
+  },
+  "txt_get_otp": {
+    "vi": "Mã OTP",
+    "en": "OTP Code",
+    "my": "OTP Code",
+    "lo": "OTP Code"
+  },
+  "txt_otp_code": {
+    "vi": "Lấy OTP",
+    "en": "Get OTP",
+    "my": "OTP ကုဒ်ရယူပါ",
+    "lo": "ລະຫັດ OTP"
+  },
+  "txt_enter_otp": {
+    "vi": "NHẬP OTP ĐỂ TIẾP TỤC",
+    "en": "ENTER OTP TO CONTINUE",
+    "my": "ရှေ့ဆက်လုပ်ဆောင်ရန် OTP ကိုရိုက်ထည့်ပါ။",
+    "lo": "ປ້ອນ OTP ເພື່ອສືບຕໍ່"
+  },
+  "txt_otp_blank": {
+    "vi": "Mã OTP không được để trống.",
+    "en": "OTP can not be blank!",
+    "my": "OTP ကုဒ် ကိုထည့်သွင်းပါ။",
+    "lo": "ປ້ອນ OTP ເພື່ອສືບຕໍ່"
+  },
+  "txt_finish": {
+    "vi": "Hoàn tất",
+    "en": "Finish",
+    "my": "ပြီးဆုံးသည်။",
+    "lo": "ຈົບ"
+  },
+  "txt_finish_1": {
+    "vi": "Hoàn Thành",
+    "en": "Done",
+    "my": "ပြီးပါပြီ။",
+    "lo": "ສຳເລັດແລ້ວ"
+  },
+  "txt_bot_opt_guide": {
+    "vi": "Bạn có thể ấn lấy OTP SMS phí 1.000đ/sms.",
+    "en": "You can press OTP SMS for 1,000 VND / SMS.",
+    "my": " သင်သည် 1,000 VND / SMS ရရှိအတွက်ရန် OTP SMS ကိုရိုက်ထည့်နိူင်ပါသည်။",
+    "lo": "ທ່ານສາມາດກົດຮັບຄ່າ OTP SMS 1.000/sms"
+  },
+  "txt_security_info": {
+    "vi": "Thông tin bảo mật",
+    "en": "Security Infomation",
+    "my": "လုံခြုံရေးဆိုင်ရာအချက်အလက်များ။",
+    "lo": "ຂໍ້​ມູນ​ຄວາມ​ປອດ​ໄພ​"
+  },
+  "txt_phone_number": {
+    "vi": "Số điện thoại",
+    "en": "Phone Number",
+    "my": "ဖုန်းနံပါတ်",
+    "lo": "ເບີ​ໂທລະ​ສັບ"
+  },
+  "txt_forgot_password": {
+    "vi": "Quên mật khẩu",
+    "en": "Forget password",
+    "my": "စကားဝှက်ကိုမေ့နေပါသလား",
+    "lo": "ລືມລະຫັດຜ່ານ"
+  },
+  "txt_sms_otp": {
+    "vi": "SMS OTP: Vui lòng nhập mã OTP để thực hiện giao dịch",
+    "en": "SMS OTP: Please enter the OTP code to make the transaction",
+    "my": "SMS OTP- ငွေပေးငွေယူပြုလုပ်ရန် OTP ကုဒ်ကိုရိုက် ထည့်ပါ။",
+    "lo": "SMS OTP: ກະລຸນາໃສ່ລະຫັດ OTP ເພື່ອເຮັດທຸລະກໍາ"
+  },
+  "txt_app_otp": {
+    "vi": "",
+    "en": "",
+    "my": "",
+    "lo": ""
+  },
+  "txt_profile": {
+    "vi": "THÔNG TIN CÁ NHÂN",
+    "en": "Profile",
+    "my": "ကိုယ်ရေးအကျဉ်း",
+    "lo": "ຂໍ້​ມູນ​ສ່ວນ​ຕົວ"
+  },
+  "txt_profile_2": {
+    "vi": "Hồ sơ",
+    "en": "Profile",
+    "my": "ကိုယ်ရေးအကျဉ်း",
+    "lo": "ໂປຣໄຟລ໌"
+  },
+  "txt_profile_nickname": {
+    "vi": "Nickname",
+    "en": "Nickname",
+    "my": "Nickname",
+    "lo": "ຊື່ຫຼິ້ນ"
+  },
+  "txt_profile_phone_number": {
+    "vi": "Số điện thoại",
+    "en": "Phone number",
+    "my": "ဖုန်းနံပါတ်",
+    "lo": "ເບີ​ໂທລະ​ສັບ"
+  },
+  "txt_profile_email": {
+    "vi": "Email",
+    "en": "Email",
+    "my": "အီးမေးလ်",
+    "lo": "ອີເມວ"
+  },
+  "txt_profile_info_change": {
+    "vi": "Thay đổi thông tin thành công!",
+    "en": "Success!",
+    "my": "လုပ်ဆောင်မှုအောင်မြင်ပါသည်။",
+    "lo": "ປ່ຽນແປງຂໍ້ມູນ​ສໍາ​ເລັດ"
+  },
+  "txt_email_format": {
+    "vi": "Vui lòng điền đúng định dạng địa chỉ email!",
+    "en": "Email is incorrect format",
+    "my": "အီးမေးလ်သည် မမှန်ကန်ပါ။",
+    "lo": "ກະລຸນາໃສ່ຮູບແບບທີ່ຢູ່ອີເມວທີ່ຖືກຕ້ອງ"
+  },
+  "txt_profile_address": {
+    "vi": "Địa chỉ",
+    "en": "Address",
+    "my": "လိပ်စာ",
+    "lo": "ທີ່ຢູ່"
+  },
+  "txt_profile_reference_code": {
+    "vi": "Mã giới thiệu của bạn:",
+    "en": "Your reference code:",
+    "my": "Your reference code:",
+    "lo": "ລະຫັດເຊີນ"
+  },
+  "txt_profile_invite_code": {
+    "vi": "Mã giới thiệu",
+    "en": "Invited code",
+    "my": "Invited code",
+    "lo": "ລະຫັດເຊີນ"
+  },
+  "txt_bank_account": {
+    "vi": "TK Ngân Hàng",
+    "en": "Bank Account",
+    "my": "ဘဏ်အကောင့်",
+    "lo": "ບັນ​ຊີ​ທະ​ນາ​ຄານ"
+  },
+  "txt_change_password": {
+    "vi": "Đổi mật khẩu",
+    "en": "Change password",
+    "my": "လျို့ဝှက်နံပါတ်ပြောင်းပါ",
+    "lo": "ປ່ຽນ​ລະ​ຫັດ​ຜ່ານ"
+  },
+  "txt_achievements": {
+    "vi": "Thành Tích",
+    "en": "Achievements",
+    "my": "အောင်မြင်မှုများ",
+    "lo": "ຜົນສຳເລັດ"
+  },
+  "txt_join_date": {
+    "vi": "Ngày tham gia",
+    "en": "Join Date",
+    "my": "စတင်အသုံးပြုသည့်နေ့",
+    "lo": "ວັນທີເຂົ້າຮ່ວມ"
+  },
+  "txt_select_bank": {
+    "vi": "Chọn Ngân Hàng",
+    "en": "Select Wallet",
+    "my": "Select Wallet",
+    "lo": "ເລືອກທະນາຄານ"
+  },
+  "txt_select_card": {
+    "vi": "Chọn thẻ cào",
+    "en": "Cards",
+    "my": "ကတ်",
+    "lo": "ເລືອກບັດ"
+  },
+  "txt_select_bank1": {
+    "vi": "Vui lòng chọn ngân hàng.",
+    "en": "Please select bank.",
+    "my": "ဘဏ်ကိုရွေးပါ။",
+    "lo": "ກະລຸນາເລືອກທະນາຄານ"
+  },
+  "txt_account_owner": {
+    "vi": "Chủ tài khoản",
+    "en": "Account owner",
+    "my": "အကောင့်ပိုင်ရှင်",
+    "lo": "ເຈົ້າຂອງບັນຊີ"
+  },
+  "txt_account_number": {
+    "vi": "Số tài khoản",
+    "en": "Account number",
+    "my": "အကောင့်နံပါတ်",
+    "lo": "ເລກບັນຊີ"
+  },
+  "txt_bank": {
+    "vi": "Ngân Hàng",
+    "en": "Bank",
+    "my": "Bank",
+    "lo": "ທະນາຄານ"
+  },
+  "txt_bank_info": {
+    "vi": "THÔNG TIN NGÂN HÀNG",
+    "en": "Bank Infomation",
+    "my": "ဘဏ်အချက်အလက်",
+    "lo": "ຂໍ້ມູນທະນາຄານ"
+  },
+  "txt_update": {
+    "vi": "Cập nhật",
+    "en": "Update",
+    "my": "အဆင့်မြှင့်တင်ခြင်း",
+    "lo": "ອັບເດດ"
+  },
+  "txt_bank_note": {
+    "vi": "Chưa đăng ký thông tin ngân hàng.Vui lòng đăng ký để có thể rút tiền.",
+    "en": "You are not registered bank information.Please register to be able to withdraw money.",
+    "my": "သင်သည် ဘဏ်အချက်အလက်များကို မှတ်ပုံတင်ထားခြင်းမရှိပါ။ ငွေထုတ်ယူနိုင်စေရန် စာရင်းပေးသွင်းပါ။",
+    "lo": "ຂໍ້ມູນທະນາຄານຍັງບໍ່ໄດ້ລົງທະບຽນ, ກະລຸນາລົງທະບຽນເພື່ອສາມາດຖອນເງິນໄດ້."
+  },
+  "txt_money_amount": {
+    "vi": "Số tiền",
+    "en": "Amount",
+    "my": "ပမာဏ",
+    "lo": "ຈໍາ​ນວນ​ເງິນ​"
+  },
+  "txt_money_amount_invalid": {
+    "vi": "Số tiền giao dịch không hợp lệ!",
+    "en": "Amount is invalid!",
+    "my": "ပမာဏသည် မမှန်ကန်ပါ။",
+    "lo": "ຈຳນວນທຸລະກຳບໍ່ຖືກຕ້ອງ"
+  },
+  "txt_promotion": {
+    "vi": "Khuyến Mãi",
+    "en": "Promotion",
+    "my": "ကြော်ငြာအစီစဉ်များ",
+    "lo": "ໂບນັດ"
+  },
+  "txt_enter_money_amount": {
+    "vi": "Nhập số tiền",
+    "en": "Enter amount",
+    "my": "Enter amount",
+    "lo": "ໃສ່ຈໍານວນເງິນ"
+  },
+  "txt_name": {
+    "vi": "Tên",
+    "en": "Name",
+    "my": "အမည်",
+    "lo": "ຊື່"
+  },
+  "txt_note": {
+    "vi": "Lưu ý:",
+    "en": "Note:",
+    "my": "Note:",
+    "lo": "ຫມາຍ​ເຫດ​:"
+  },
+  "txt_bank_transfer_note_8": {
+    "vi": "- Miễn phí nạp tiền.",
+    "en": "- Free transfer",
+    "my": "အခမဲ့လွှဲပြောင်းခြင်း",
+    "lo": "ເຕີມເງິນຟຣີ"
+  },
+  "txt_note_transfer_7": {
+    "vi": "Tạo lệnh rút không thành công!",
+    "en": "Withdraw transaction created failed!",
+    "my": "သင်၏တောင်းဆိုမှုမအောင်မြင်ပါ။",
+    "lo": "ການຖອນເງິນລົ້ມເຫລວ"
+  },
+  "txt_note_transfer_8": {
+    "vi": "Nạp tiền thành công",
+    "en": "Success",
+    "my": "လုပ်ဆောင်မှုအောင်မြင်ပါသည်။",
+    "lo": "ເຕີມເງິນສຳເລັດ"
+  },
+  "txt_note_transfer_9": {
+    "vi": "Tạo lênh rút thành công!",
+    "en": "Withdraw transaction created successfully!",
+    "my": "အောင်မြင်မှု",
+    "lo": "ຖອນເງິນ​ສໍາ​ເລັດ"
+  },
+  "txt_verify_phone_success": {
+    "vi": "Chúc mừng!\nBạn đã xác thực số điện thoại thành công.",
+    "en": "Congratulation!You have verified phone number successfully!",
+    "my": "ဂုဏ်ယူပါသည်။ သင်သည် ဖုန်းနံပါတ်ကို အောင်မြင်စွာ အတည်ပြုပြီးပါပြီ။",
+    "lo": "ຂໍສະແດງຄວາມຍິນດີ!ທ່ານໄດ້ຢັ້ງຢືນເບີໂທລະສັບສຳເລັດແລ້ວ!"
+  },
+  "txt_error": {
+    "vi": "Thất bại!\nVui lòng thử lại sau.",
+    "en": "Failed! Please try again later.",
+    "my": "လုပ်ဆောင်မှုမအောင်မြင်ပါ။ နောက်တကြိမ် ထပ်မံစမ်းသပ်ကြည့်ပါ။",
+    "lo": "ລົ້ມເຫລວ! ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ."
+  },
+  "txt_sms_otp_sended": {
+    "vi": "Mã OTP đã được gửi về số điện thoại của bạn!",
+    "en": "OTP is sended to your phone number!",
+    "my": "OTP နံပါတ်  အားသင်၏ဖုန်းနံပါတ်သို့ပေးပို့ပါမည်",
+    "lo": "OTP ຖືກ​ສົ່ງ​ໄປ​ຫາ​ເບີ​ໂທລະ​ສັບ​ຂອງ​ທ່ານ​!"
+  },
+  "txt_otp_invalid": {
+    "vi": "Mã OTP không hợp lệ!",
+    "en": "OTP is invalid!",
+    "my": "OTP နံပါတ်မှားယွင်းနေပါသည်",
+    "lo": "OTP ຖືກ​ສົ່ງ​ໄປ​ຫາ​ເບີ​ໂທລະ​ສັບ​ຂອງ​ທ່ານ​!"
+  },
+  "txt_active": {
+    "vi": "Kích hoạt",
+    "en": "Active",
+    "my": "Active",
+    "lo": "ເຄື່ອນໄຫວ"
+  },
+  "txt_number_player": {
+    "vi": "Số người",
+    "en": "Number player",
+    "my": "ကစားသမား၏နံပါတ်",
+    "lo": "ຈໍານວນຄົນ"
+  },
+  "txt_min_bet": {
+    "vi": "Tối thiểu",
+    "en": "Min bet",
+    "my": "Min bet",
+    "lo": "ການເດີມພັນຂັ້ນຕ່ໍາ"
+  },
+  "txt_min_transfer": {
+    "vi": "Chuyển tiền tối thiểu ",
+    "en": "Minimum transferring ",
+    "my": "အနိမ့်ဆုံးလွှဲပြောင်းခြင်း။",
+    "lo": "ການໂອນຂັ້ນຕ່ໍາ"
+  },
+  "txt_room": {
+    "vi": "Phòng",
+    "en": "Room",
+    "my": "Room",
+    "lo": "ຫ້ອງ"
+  },
+  "txt_win_lose": {
+    "vi": "Thắng/Thua",
+    "en": "Win/Lose",
+    "my": "အနိုင်/အရှုံး",
+    "lo": "ຊະນະ/ແພ້"
+  },
+  "txt_play_now": {
+    "vi": "Chơi ngay",
+    "en": "Play",
+    "my": "ကစားပါ။",
+    "lo": "ຫຼິ້ນ"
+  },
+  "txt_history_bet": {
+    "vi": "LS Đặt Cược",
+    "en": "History",
+    "my": "သမိုင်း",
+    "lo": "ປະຫວັດເດີມພັນ"
+  },
+  "txt_rank": {
+    "vi": "BẢNG XẾP HẠNG",
+    "en": "LEADERBOARD",
+    "my": "ဦးဆောင်ဘုတ်အဖွဲ့",
+    "lo": "ກະດານຜູ້ນໍາ"
+  },
+  "txt_rank_2": {
+    "vi": "XẾP HẠNG",
+    "en": "LEADERBOARD",
+    "my": "ဦးဆောင်ဘုတ်အဖွဲ့",
+    "lo": "ກະດານຜູ້ນໍາ"
+  },
+  "txt_rank2": {
+    "vi": "Hạng",
+    "en": "Rank",
+    "my": "Rank",
+    "lo": "ອັນດັບ"
+  },
+  "txt_win": {
+    "vi": "Thắng",
+    "en": "Win",
+    "my": "Win",
+    "lo": "ຊະນະ"
+  },
+  "txt_account": {
+    "vi": "Tài khoản",
+    "en": "Account",
+    "my": "အကောင့်",
+    "lo": "ບັນຊີ"
+  },
+  "txt_guide": {
+    "vi": "Hướng Dẫn",
+    "en": "Guide",
+    "my": "လမ်းညွှန်",
+    "lo": "ຄູ່ມື"
+  },
+  "txt_session": {
+    "vi": "Phiên",
+    "en": "Session",
+    "my": "Session",
+    "lo": "ເຊດຊັນ"
+  },
+  "txt_result": {
+    "vi": "Kết quả",
+    "en": "Result",
+    "my": "Result",
+    "lo": "ຜົນໄດ້ຮັບ"
+  },
+  "txt_bet": {
+    "vi": "Đặt",
+    "en": "Bet",
+    "my": "Bet",
+    "lo": "ເດີມພັນ"
+  },
+  "txt_unknown_error": {
+    "vi": "Lỗi không xác định",
+    "en": "Unknown error",
+    "my": "အမည်မသိ အမှား",
+    "lo": "ຄວາມຜິດພາດທີ່ບໍ່ຮູ້ຈັກ"
+  },
+  "txt_action_success": {
+    "vi": "Thao tác thành công!",
+    "en": "success!",
+    "my": "အောင်မြင်မှု",
+    "lo": "ການດຳເນີນ​ສໍາ​ເລັດ"
+  },
+  "txt_action_not_success": {
+    "vi": "Thao tác không thành công,\nVui lòng thử lại sau!",
+    "en": "Action failed,\nPlease try again later!",
+    "my": "လုပ်ဆောင်မှုမအောင်မြင်ပါ။ ကျေးဇူးပြု၍ နောက်တကြိမ် ထပ်မံစမ်းသပ်ကြည့်ပါ။",
+    "lo": "ການດຳເນີນການບໍ່ສຳເລັດ,\nກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ!"
+  },
+  "txt_unknown_error1": {
+    "vi": "Có lỗi xảy ra!\nVui lòng thử lại sau.",
+    "en": "Error!\nPlease try again later.",
+    "my": "မှားယွင်းနေပါသည် ျေးဇူးပြု၍ နောက်တကြိမ် ထပ်မံစမ်းသပ်ကြည့်ပါ",
+    "lo": "ຜິດພາດ!\nກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ."
+  },
+  "txt_money_error": {
+    "vi": "Số tiền đã nhập không hợp lệ.",
+    "en": "Amount is invalid.",
+    "my": "ပမာဏသည် မမှန်ကန်ပါ။",
+    "lo": "ຈໍານວນເງິນທີ່ລະບຸບໍ່ຖືກຕ້ອງ"
+  },
+  "txt_money_error2": {
+    "vi": "Số tiền tối thiểu là ",
+    "en": "Minimum amount is ",
+    "my": "အနည်းဆုံးပမာဏမှာ ",
+    "lo": "ຈໍານວນຕໍາ່ສຸດແມ່ນ "
+  },
+  "txt_sound": {
+    "vi": "Âm Thanh",
+    "en": "Sound",
+    "my": "အသံ",
+    "lo": "ສຽງ"
+  },
+  "txt_music": {
+    "vi": "Nhạc Nền",
+    "en": "Music",
+    "my": "ဂီတ",
+    "lo": "ເພງ"
+  },
+  "txt_notify_bigwin": {
+    "vi": "Thông báo thắng lớn",
+    "en": "Notify big win",
+    "my": "ကြီးကြီးမားမား အကြောင်းကြားရခြင်း",
+    "lo": "ແຈ້ງໄຊຊະນະໃຫຍ່"
+  },
+  "txt_language": {
+    "vi": "Ngôn Ngữ",
+    "en": "Language",
+    "my": "ဘာသာစကား",
+    "lo": "ພາສາ"
+  },
+  "txt_logout": {
+    "vi": "Đăng Xuất",
+    "en": "Logout",
+    "my": "အကောင့်မှထွက်လိုက်ပါ။",
+    "lo": "ອອກ​ຈາກ​ລະ​ບົບ"
+  },
+  "txt_back": {
+    "vi": "Back",
+    "en": "Back",
+    "my": "Back",
+    "lo": "Back"
+  },
+  "txt_history": {
+    "vi": "Lịch Sử",
+    "en": "History",
+    "my": "History",
+    "lo": "History"
+  },
+  "txt_security": {
+    "vi": "Bảo mật",
+    "en": "Security",
+    "my": "လုံခြုံရေး",
+    "lo": "ຄວາມປອດໄພ"
+  },
+  "txt_security_success": {
+    "vi": "Kích hoạt bảo mật thành công!",
+    "en": "Security activation successfully!",
+    "my": "လုံခြုံရေးဆိုင်ရာလုပ်ဆောင်မှုများအောင်မြင်ပါသည်",
+    "lo": "ການເປີດໃຊ້ຄວາມປອດໄພສຳເລັດແລ້ວ"
+  },
+  "txt_security_error": {
+    "vi": "Kích hoạt bảo mật không thành công!",
+    "en": "Security activation failed!",
+    "my": "လုံခြုံရေးဆိုင်ရာလုပ်ဆောင်မှုများ မအောင်မြင်ပါ။",
+    "lo": "ການເປີດໃຊ້ຄວາມປອດໄພລົ້ມເຫລວ!"
+  },
+  "txt_setting": {
+    "vi": "Cài Đặt",
+    "en": "Setting",
+    "my": "Setting",
+    "lo": "ການຕັ້ງຄ່າ"
+  },
+  "txt_mission": {
+    "vi": "Nhiệm Vụ",
+    "en": "Mission",
+    "my": "တာဝန်",
+    "lo": "ພາລະກິດ"
+  },
+  "txt_support": {
+    "vi": "Hỗ Trợ",
+    "en": "Support",
+    "my": "ကူညီပေးမည်",
+    "lo": "ສະຫນັບສະຫນູນ"
+  },
+  "txt_mail": {
+    "vi": "Hòm Thư",
+    "en": "Mailbox",
+    "my": "စာတိုက်ပုံး",
+    "lo": "ກ່ອງຈົດໝາຍ"
+  },
+  "txt_agency": {
+    "vi": "Đại Lý",
+    "en": "Agency",
+    "my": "အေဂျင်စီ",
+    "lo": "ຕົວແທນ"
+  },
+  "txt_download_app": {
+    "vi": "Tải App",
+    "en": "Download",
+    "my": "ဒေါင်းလုဒ်လုပ်ပါ။",
+    "lo": "ດາວໂຫຼດAPP"
+  },
+  "txt_notify_change_language": {
+    "vi": "Đổi ngôn ngữ thành công!",
+    "en": "Change language successfully!",
+    "my": "ဘာသာစကားပြောင်းလဲခြင်းအောင်မြင်ပါသည်။",
+    "lo": "ປ່ຽນພາສາສຳເລັດແລ້ວ!"
+  },
+  "txt_notify_fast_action": {
+    "vi": "Thao tác quá nhanh!",
+    "en": "Too fast action!",
+    "my": "မြန်ဆန်လွန်းသော လုပ်ဆောင်ချက်။",
+    "lo": "ການດຳເນີນການ​ໄວ​ເກີນ​ໄປ​!"
+  },
+  "txt_notify": {
+    "vi": "Thông Báo",
+    "en": "Notification",
+    "my": "အသိပေးချက်",
+    "lo": "ແຈ້ງການ"
+  },
+  "txt_not_config": {
+    "vi": "Cập Nhật",
+    "en": "Update",
+    "my": "အဆင့်မြှင့်တင်ခြင်း",
+    "lo": "ອັບເດດ"
+  },
+  "txt_coin": {
+    "vi": "Xu",
+    "en": "Coin",
+    "my": "အကြွေစေ့",
+    "lo": "G"
+  },
+  "txt_agency_code": {
+    "vi": "Mã đại lý(không bắt buộc)",
+    "en": "Agency code(optional)",
+    "my": "အေဂျင်စီကုဒ်(ချန်လှပ်ထားနိုင်သည်)",
+    "lo": "ລະຫັດຕົວແທນ (ທາງເລືອກ)"
+  },
+  "txt_agency_code_1": {
+    "vi": "Mã đại lý",
+    "en": "Reference code",
+    "my": "Reference code",
+    "lo": "ລະຫັດຕົວແທນ"
+  },
+  "txt_tab_game_all": {
+    "vi": "Tất Cả Game",
+    "en": "All Games",
+    "my": "ဂိမ်းအားလုံး",
+    "lo": "ເກມທັງໝົດ"
+  },
+  "txt_tab_game_sport": {
+    "vi": "Thể Thao",
+    "en": "Sport",
+    "my": "အားကစား",
+    "lo": "ກິລາ"
+  },
+  "txt_tab_game_live": {
+    "vi": "Live Casino",
+    "en": "Live Casino",
+    "my": "တိုက်ရိုက်ကာစီနို",
+    "lo": "ຄາສິໂນສົດ"
+  },
+  "txt_tab_game_slot": {
+    "vi": "Slot",
+    "en": "Slot Games",
+    "my": "အပေါက်ဆုံးဂိမ်းများ",
+    "lo": "ເກມສະລັອດ"
+  },
+  "txt_tab_game_mini": {
+    "vi": "MiniGame",
+    "en": "MiniGame",
+    "my": "မီနီဂိမ်း",
+    "lo": "ມິນິເກມ"
+  },
+  "txt_tab_game_hot": {
+    "vi": "Game Hot",
+    "en": "Game Hot",
+    "my": "ဟော့ဂိမ်းများ",
+    "lo": "ເກມ ຮອດ"
+  },
+  "txt_tab_game_casino": {
+    "vi": "Casino",
+    "en": "Casino",
+    "my": "ကာစီနို",
+    "lo": "ຄາສິໂນ"
+  },
+  "txt_tab_game_card": {
+    "vi": "Game Bài",
+    "en": "Cards Game",
+    "my": "ဂိမ်းကတ်များ",
+    "lo": "ເກມCards"
+  },
+  "txt_coming_soon": {
+    "vi": "Game sắp ra mắt!",
+    "en": "Coming soon!",
+    "my": "မကြာမီလာမည်!",
+    "lo": "ໄວໆນີ້!"
+  },
+  "txt_maintenance": {
+    "vi": "Đang bảo trì!",
+    "en": "Under maintenance!",
+    "my": "Under maintenance!",
+    "lo": "Under maintenance!"
+  },
+  "txt_session_end": {
+    "vi": "Phiên làm việc hết hạn.\nVui lòng tải lại!",
+    "en": "Session ended.\nPlease reload game!",
+    "my": "Session  ပြီးဆုံးသွားပါပြီ။ကျေးဇူးပြု၍ ဂိမ်းကို ပြန်လည်စတင်ပါ။",
+    "lo": "ເຊດຊັນສິ້ນສຸດແລ້ວ.\nກະລຸນາໂຫຼດເກມຄືນໃໝ່!"
+  },
+  "txt_login_error": {
+    "vi": "Đăng nhập không thành công, vui lòng kiểm tra lại kết nối.",
+    "en": "Login error, Please check your network connection.",
+    "my": "အကောင့်ဝင်ရောက်မှု မှားယွင်းနေပါသည်၊ကျေးဇူးပြု၍ သင်၏ကွန်ရက်ချိတ်ဆက်မှုကို စစ်ဆေးပါ။",
+    "lo": "ເຂົ້າສູ່ລະບົບຜິດພາດ, ກະລຸນາກວດສອບການເຊື່ອມຕໍ່ເຄືອຂ່າຍຂອງທ່ານ."
+  },
+  "txt_login_error1": {
+    "vi": "Thông tin đăng nhập không hợp lệ",
+    "en": "Login error! Please check your account again.",
+    "my": "အကောင့်ဝင်ရောက်မှု မှားယွင်းနေပါသည်။ ကျေးဇူးပြု၍ သင့်၏အကောင့်ကို ထပ်မံစစ်ဆေးပါ။",
+    "lo": "ເຂົ້າສູ່ລະບົບຜິດພາດ! ກະລຸນາກວດເບິ່ງບັນຊີຂອງທ່ານອີກຄັ້ງ."
+  },
+  "txt_login_account_blocked": {
+    "vi": "Tài khoản đã bị khoá.",
+    "en": "Your account is blocked.",
+    "my": "သင့်၏အကောင့်ကို ပိတ်ထားပါသည်။",
+    "lo": "ບັນຊີຂອງທ່ານຖືກບລັອກ."
+  },
+  "txt_login_account_not_existed": {
+    "vi": "Tài khoản không tồn tại.",
+    "en": "Account does not exist.",
+    "my": "အကောင့်မရှိပါ။",
+    "lo": "ບໍ່ມີບັນຊີ."
+  },
+  "txt_login_account_existed": {
+    "vi": "Tài khoản đã tồn tại.",
+    "en": "Account is existed.",
+    "my": "အကောင့်ရှိပြီးသားပါဖြစ်ပါသည်။",
+    "lo": "ບັນຊີແມ່ນມີຢູ່."
+  },
+  "txt_login_account_name_not_the_same": {
+    "vi": "Tên đăng nhập và mật khẩu không trùng khớp.",
+    "en": "Username and passwords is not the same.",
+    "my": "အသုံးပြုသူအမည်နှင့် စကားဝှက်များ တူညီ၍မရပါ။",
+    "lo": "ຊື່ຜູ້ໃຊ້ ແລະລະຫັດຜ່ານບໍ່ຄືກັນ."
+  },
+  "txt_login_account_incorrect_otp": {
+    "vi": "Mã OTP không chính xác.",
+    "en": "OTP code is incorrect.",
+    "my": "OTP ကုဒ် မမှန်ပါ။",
+    "lo": "ລະຫັດ OTP ບໍ່ຖືກຕ້ອງ."
+  },
+  "txt_login_account_expired_otp": {
+    "vi": "Mã OTP đã hết hạn!",
+    "en": "OTP expired.",
+    "my": "OTP ကုဒ် သက်တမ်းကုန်သွားပါပြီ။",
+    "lo": "OTP ໝົດອາຍຸແລ້ວ."
+  },
+  "txt_login_username_not_blank": {
+    "vi": "Tên đăng nhập không được để trống.",
+    "en": "Username cannot be blank.",
+    "my": "အသုံးပြုသူအမည်တွင် ထည့်သွင်းပါ။",
+    "lo": "ຊື່ຜູ້ໃຊ້ບໍ່ສາມາດຫວ່າງເປົ່າໄດ້."
+  },
+  "txt_login_nickname_not_blank": {
+    "vi": "Tên hiển thị không được để trống.",
+    "en": "Nickname cannot be blank.",
+    "my": "Nickname နေရာတွင်ထည့်သွင်းပါ။",
+    "lo": "ຊື່ຫຼິ້ນບໍ່ສາມາດຫວ່າງເປົ່າໄດ້."
+  },
+  "txt_login_nickname_error": {
+    "vi": "Tên hiển thị không hợp lệ!",
+    "en": "Nickname invalid!",
+    "my": "Nickname မမှန်ကန်ပါ။",
+    "lo": "ຊື່ຫຼິ້ນບໍ່ຖືກຕ້ອງ!"
+  },
+  "txt_login_nickname_existed": {
+    "vi": "Tên hiển thị đã tồn tại!",
+    "en": "Nickname existed!",
+    "my": "Nickname ရှိပြီးသားဖြစ်ပါသည်။!",
+    "lo": "ມີຊື່ຫຼິ້ນແລ້ວ!"
+  },
+  "txt_login_username_error": {
+    "vi": "Tên đăng nhập không hợp lệ!",
+    "en": "Username invalid.",
+    "my": "အသုံးပြုသူအမည် မှားယွင်းနေပါသည်။",
+    "lo": "ຊື່ຜູ້ໃຊ້ບໍ່ຖືກຕ້ອງ."
+  },
+  "txt_login_password_not_blank": {
+    "vi": "Mật khẩu không được để trống.",
+    "en": "Passwords cannot be blank.",
+    "my": "လျို့ဝှက်နံပါတ်နေရာတွင်ထည့်သွင်းပါ။",
+    "lo": "ລະຫັດຜ່ານບໍ່ສາມາດຫວ່າງເປົ່າໄດ້."
+  },
+  "txt_login_password_error": {
+    "vi": "Mật khẩu không đúng!",
+    "en": "Passwords invalid!",
+    "my": "လျို့ဝှက်နံပါတ်များ မှားယွင်းနေပါသည်။",
+    "lo": "ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ!"
+  },
+  "txt_login_from_other": {
+    "vi": "Tài khoản của bạn đã được đăng nhập từ một nơi khác!",
+    "en": "Your account is logged from other places!",
+    "my": "သင့်၏အကောင့်ကို အခြားနေရာမှ log in ဝင်ထားသည်။",
+    "lo": "ບັນຊີຂອງທ່ານຖືກບັນທຶກຈາກບ່ອນອື່ນ!"
+  },
+  "txt_cash_out_min": {
+    "vi": "Rút tối thiểu ",
+    "en": "Withdraw at least ",
+    "my": "အနည်းဆုံးငွေပမာဏထုတ်ယူပါ။ ",
+    "lo": "ຖອນເງິນຂັ້ນຕ່ໍາ "
+  },
+  "txt_cash_in_min": {
+    "vi": "Nạp tối thiểu",
+    "en": "Recharge at least",
+    "my": "အနည်းဆုံး ငွေပမာဏအားပြန်လည်ဖြည့်သွင်းပါ",
+    "lo": "ຕື່ມເງິນຂັ້ນຕ່ໍາ "
+  },
+  "txt_cash_in_max": {
+    "vi": "Nạp tối đa",
+    "en": "Recharge maximum",
+    "my": "အများဆုံးငွေပမာဏအားပြန်လည်ဖြည့်သွင်းပါ ",
+    "lo": "ຕື່ມເງິນສູງສຸດ "
+  },
+  "txt_cash_out_max": {
+    "vi": "Rút tối đa ",
+    "en": "Withdraw maximum ",
+    "my": "အများဆုံးငွေပမာဏထုတ်ယူပါ။ ",
+    "lo": "ຖອນເງິນສູງສຸດ "
+  },
+  "txt_not_enough_money": {
+    "vi": "Số dư không đủ.",
+    "en": "Balance is not enough.",
+    "my": "လက်ကျန်ငွေမလုံလောက်ပါ။",
+    "lo": "ເງິນບໍ່ພຽງພໍ."
+  },
+  "txt_ask_logout": {
+    "vi": "Bạn có muốn đăng xuất khỏi tài khoản?",
+    "en": "Do you want to logout?",
+    "my": "သင်၏အကောင့်မှထွက်လိုပါသလား။",
+    "lo": "ທ່ານຕ້ອງການອອກຈາກລະບົບບໍ?"
+  },
+  "txt_loading": {
+    "vi": "Đang kết nối...",
+    "en": "Conecting...",
+    "my": "ချိတ်ဆက်နေသည်။...",
+    "lo": "ກຳລັງເຊື່ອມຕໍ່..."
+  },
+  "txt_loading1": {
+    "vi": "Đang tải...",
+    "en": "Loading...",
+    "my": "လုပ်ဆောင်နေသည်",
+    "lo": "ກຳລັງໂຫຼດ..."
+  },
+  "txt_check_connect": {
+    "vi": "Kết nối mạng không ổn định!\n Vui lòng thử lại sau.",
+    "en": "Connection is unstable!\nPlease try again later.",
+    "my": "ချိတ်ဆက်မှု မတည်ငြိမ်ပါ။ ကျေးဇူးပြု၍နောက်တကြိမ် ထပ်မံစမ်းသပ်ကြည့်ပါ။",
+    "lo": "ການເຊື່ອມຕໍ່ບໍ່ສະຖຽນ!\nກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ."
+  },
+  "txt_input_all": {
+    "vi": "Vui lòng điền đầy đủ thông tin!",
+    "en": "Please enter full information!",
+    "my": "အချက်အလက်အပြည့်အစုံကို ထည့်သွင်းပါ။",
+    "lo": "ກະລຸນາໃສ່ຂໍ້ມູນເຕັມ!"
+  },
+  "txt_input_error": {
+    "vi": "Thông tin không chính xác!\nVui lòng kiểm tra lại.",
+    "en": "Infomation incorrect!\nPlease check again.",
+    "my": "အချက်အလက် မမှန်ကန်ပါ။ ကျေးဇူးပြု၍ ထပ်မံစစ်ဆေးပါ။",
+    "lo": ""
+  },
+  "txt_room_err1": {
+    "vi": "Lỗi kiểm tra thông tin!",
+    "en": "Infomation checking error!",
+    "my": "အချက်အလက်မှားယွင်းမှုများအားစစ်ဆေးခြင်း",
+    "lo": "ການ​ກວດ​ສອບ​ຂໍ້​ມູນ​ຜິດ​ພາດ​!"
+  },
+  "txt_room_err6": {
+    "vi": "Hệ thống bảo trì!",
+    "en": "The system is maintenance",
+    "my": "စနစ်အားပြုပြင်ထိန်းသိမ်းခြင်း။",
+    "lo": "ລະບົບບໍາລຸງຮັກສາ"
+  },
+  "txt_otp_delay_time": {
+    "vi": "Mỗi thao tác lấy SMS OTP phải cách nhau ít nhất 5 phút!",
+    "en": "Each OTP must be take 5 minutes a part!",
+    "my": "ကဏ္ဍတစုစီအတွက် OTP code ပေးပို့ခြင်းသည်၅မိနစ်ကြာရပါမည်။",
+    "lo": "ແຕ່ລະການດໍາເນີນງານເພື່ອຮັບ SMS OTP ຕ້ອງຢູ່ຫ່າງກັນຢ່າງໜ້ອຍ 5 ນາທີ!"
+  },
+  "txt_otp_send": {
+    "vi": "Mã OTP đã được gửi đi!",
+    "en": "OTP sended!",
+    "my": "OTP code ပို့ပြီးပါပြီ။",
+    "lo": "OTP ສົ່ງແລ້ວ!"
+  },
+  "txt_error_exchange": {
+    "vi": "Giao dịch thất bại!",
+    "en": "Exchange failed!",
+    "my": "လဲလှယ်မှု မအောင်မြင်ပါ။",
+    "lo": "ການແລກປ່ຽນລົ້ມເຫລວ!"
+  },
+  "txt_content_copied": {
+    "vi": "Sao chép nội dung: ",
+    "en": "Content copy: ",
+    "my": "အကြောင်းအရာ ကူးယူခြင်း",
+    "lo": "ສຳເນົາເນື້ອຫາ"
+  },
+  "txt_giftcode_blank": {
+    "vi": "Mã quà tặng không được để trống!",
+    "en": "Giftcode can not be blank!",
+    "my": "လက်ဆောင်ကုဒ်ကို ထည့်သွင်းပါ။!",
+    "lo": "ລະຫັດຂອງຂວັນບໍ່ສາມາດຫວ່າງເປົ່າໄດ້!"
+  },
+  "txt_giftcode_success": {
+    "vi": "Nhận thưởng thành công!",
+    "en": "Receive gift successfully!",
+    "my": "လက်ဆောင်အားလက်ခံရရှိပါသည်",
+    "lo": "ຮັບຂອງຂວັນສຳເລັດແລ້ວ!"
+  },
+  "txt_giftcode_expired": {
+    "vi": "Giftcode hết hạn sử dụng!",
+    "en": "Giftcode expired!",
+    "my": "လက်ဆောင်ကုဒ် သက်တမ်းကုန်သွားပါပြီ။",
+    "lo": "ລະຫັດຂອງຂວັນໝົດອາຍຸແລ້ວ!"
+  },
+  "txt_giftcode_campain_close": {
+    "vi": "Giftcode đã hết hiệu lực!",
+    "en": "Campaign end, please try again later!",
+    "my": "လက်ဆောင်ကုဒ်သည် အဆင်မပြေပါ။",
+    "lo": "ລະຫັດຂອງຂວັນບໍ່ເໝາະສົມ!"
+  },
+  "txt_giftcode_out_of_money": {
+    "vi": "Chương trình khuyến mãi đã hết, mời bạn thử lại sau!",
+    "en": "Campaign end, please try again later!",
+    "my": "လက်ဆောင်ကုဒ်သည် အဆင်မပြေပါ။",
+    "lo": "ລະຫັດຂອງຂວັນບໍ່ເໝາະສົມ!"
+  },
+  "txt_giftcode_used": {
+    "vi": "Giftcode đã được sử dụng!",
+    "en": "This giftcode was used!",
+    "my": "သင်သည် ဤလက်ဆောင်ကုဒ်ကို အသုံးပြုပြီးဖြစ်သည်။",
+    "lo": "ທ່ານໄດ້ໃຊ້ລະຫັດຂອງຂວັນນີ້!"
+  },
+  "txt_giftcode_check_phone": {
+    "vi": "Vui lòng kích hoạt số điện thoại!",
+    "en": "Please activate the phone number!",
+    "my": "ကျေးဇူးပြု၍ ဖုန်းနံပါတ်ကို အသက်သွင်းပါ။",
+    "lo": "ກະລຸນາເປີດໃຊ້ເບີໂທລະສັບ!"
+  },
+  "txt_giftcode_incorrect": {
+    "vi": "Giftcode không đúng!",
+    "en": "Giftcode incorrect!",
+    "my": "လက်ဆောင်ကုဒ်မမှန်ကန်ပါ။",
+    "lo": "ລະຫັດຂອງຂວັນບໍ່ຖືກຕ້ອງ!"
+  },
+  "txt_phone_number_incorrect": {
+    "vi": "Số điện thoại không hợp lệ!",
+    "en": "Phone number is invalid!",
+    "my": "ဖုန်းနံပါတ် မမှန်ကန်ပါ။",
+    "lo": "ເບີໂທລະສັບບໍ່ຖືກຕ້ອງ!"
+  },
+  "txt_phone_number_incorrect2": {
+    "vi": "Số điện thoại mới không được trùng với số điện thoại cũ!",
+    "en": "New phone number must be different with old phone number!",
+    "my": "ဖုန်းနံပါတ်အသစ်သည် ဖုန်းနံပါတ်ဟောင်းနှင့် ကွဲပြားရပါမည်။",
+    "lo": "ເບີໂທລະສັບໃໝ່ຕ້ອງແຕກຕ່າງຈາກເບີໂທລະສັບເກົ່າ!"
+  },
+  "txt_password_incorrect3": {
+    "vi": "Mật khẩu không trùng khớp!",
+    "en": "Passwords are not the same!",
+    "my": "လျို့ဝှက်နံပါတ်များမတူညီပါ။",
+    "lo": "ລະຫັດຜ່ານບໍ່ຄືກັນ!"
+  },
+  "txt_phone_number_incorrect1": {
+    "vi": "Số điện thoại được đăng ký bởi tài khoản khác!",
+    "en": "Phone number is verify with other account!",
+    "my": "ဖုန်းနံပါတ်ကို အခြားအကောင့်ဖြင့် အတည်ပြုပါသည်။",
+    "lo": "ເບີໂທລະສັບຖືກຢືນຢັນກັບບັນຊີອື່ນ!"
+  },
+  "txt_reward": {
+    "vi": "Chúc mừng bạn đã nhận được:",
+    "en": "Congratulations on getting:",
+    "my": "ရယူခြင်းအတွက် ဂုဏ်ယူပါသည်။",
+    "lo": "ຂໍສະແດງຄວາມຍິນດີກັບການໄດ້ຮັບ:"
+  },
+  "txt_bet_error": {
+    "vi": "Tiền cược phải là số dương!",
+    "en": "Money bet must be positive numbers",
+    "my": "လောင်းကြေးငွေသည် တိကျပျက်သားသော ဂဏန်းများဖြစ်ရမည်။",
+    "lo": "ການເດີມພັນເງິນຕ້ອງເປັນຕົວເລກບວກ"
+  },
+  "txt_bet_error1": {
+    "vi": "Không thể đặt quá hạn mức của cửa!",
+    "en": "Cannot bet more than gate's maximum amount!",
+    "my": "သတ်မှတ်ထားသောအမြင့်ဆုံးပမာဏထက်ပိုလောင်း၍မရပါ။",
+    "lo": "ບໍ່ສາມາດພະນັນໄດ້ເກີນຈຳນວນສູງສຸດຂອງ gate!"
+  },
+  "txt_bet_error2": {
+    "vi": "Đặt cược thất bại!",
+    "en": "Bet error!",
+    "my": "မှားယွင်းလောင်းကြေးတင်ခြင်း။",
+    "lo": "ການເດີມພັນລົ້ມເຫຼວ!"
+  },
+  "txt_bet_success": {
+    "vi": "Đặt cược thành công!",
+    "en": "Bet successfully!",
+    "my": "အောင်မြင်စွာလောင်းကြေးတင်ပြီးပါပြီ။",
+    "lo": "ເດີມພັນສໍາເລັດ!"
+  },
+  "txt_bet_error3": {
+    "vi": "Chưa đến thời gian đặt cược!",
+    "en": "It's not time to bet yet!",
+    "my": "ကစားပွဲအားလောင်းရန်အချိန်မကျသေးပါ",
+    "lo": "ມັນບໍ່ແມ່ນເວລາທີ່ຈະວາງເດີມພັນ!"
+  },
+  "txt_bet_error4": {
+    "vi": "Chưa đặt cược!",
+    "en": "Not bet yet!",
+    "my": "မလောင်းရသေးဘူး!",
+    "lo": "ຍັງບໍ່ໄດ້ເດີມພັນ!"
+  },
+  "txt_bet_error7": {
+    "vi": "Số tiền cược không hợp lệ!",
+    "en": "Bet amount invalid!",
+    "my": "လောင်းကြေးပမာဏ မမှန်ကန်ပါ။",
+    "lo": "ຈຳນວນເດີມພັນບໍ່ຖືກຕ້ອງ!"
+  },
+  "txt_bet_error8": {
+    "vi": "Đã hết thời gian đặt cược!",
+    "en": "Time to bet is ended!",
+    "my": "ကစားပွဲအားလောင်းကြေးတင်ရန် သတ်မှတ်ထားသောအချိန်ကုန်ဆူံးသွားပါပြီ။",
+    "lo": "ຫມົດ​ເວ​ລາດີມພັນ!"
+  },
+  "txt_bet_error9": {
+    "vi": "Vui lòng chọn mức cược!",
+    "en": "Please select bet amount!",
+    "my": "ကစားပွဲအားလောင်းရန်ငွေပမာဏကို သတ်မှတ်ပါ။",
+    "lo": "ກະລຸນາເລືອກຈຳນວນເດີມພັນ!"
+  },
+  "txt_bet_invite": {
+    "vi": "Mời đặt cược!",
+    "en": "Start bet!",
+    "my": "လောင်းကြေးစတင်လက်ခံခြင်း။",
+    "lo": "ເຊີນເດີມພັນ!"
+  },
+  "txt_taixiu_finish": {
+    "vi": "Bắt đầu trả thưởng!",
+    "en": "Start reward!",
+    "my": "ဆုကြေးကို စတင်ပါ။",
+    "lo": "ເລີ່ມລາງວັນ!"
+  },
+  "txt_taixiu_refund": {
+    "vi": "Trả tiền cân cửa!",
+    "en": "Refund and Balance",
+    "my": "ပြန်အမ်းငွေနှင့် လက်ကျန်ငွေ",
+    "lo": "ການຄືນເງິນ ແລະຍອດເງິນ"
+  },
+  "txt_taixiu_refund1": {
+    "vi": "Trả lại",
+    "en": "Refund",
+    "my": "ပြန်အမ်းငွေ",
+    "lo": "ເງິນຄືນ"
+  },
+  "txt_taixiu_new_session": {
+    "vi": "Bắt đầu phiên mới!",
+    "en": "Start new session!",
+    "my": "sessionအသစ် စတင်ပါ။",
+    "lo": "ເລີ່ມເຊດຊັນໃໝ່!"
+  },
+  "txt_taixiu_chat": {
+    "vi": "Nhập nội dung....",
+    "en": "Text here....",
+    "my": "ဤနေရာတွင်စကားပြောပါ",
+    "lo": "ຂຽນຂໍ້ຄວາມທີ່ນີ້"
+  },
+  "txt_taixiu_chat_error": {
+    "vi": "Bạn không có quyền chat!",
+    "en": "You do not have permisstion to chat!",
+    "my": "သင့်တွင် စကားပြောခွင့်မရှိပါ",
+    "lo": "ທ່ານບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ສົນທະນາ!"
+  },
+  "txt_taixiu_chat_error2": {
+    "vi": "Nội dung chat quá dài!",
+    "en": "Message too long!",
+    "my": "မက်ဆေ့ချ်သည် အရမ်းရှည်သည်။",
+    "lo": "ຂໍ້ຄວາມຍາວເກີນໄປ!"
+  },
+  "txt_taixiu_chat_error4": {
+    "vi": "Bạn không thể đặt hai cửa!",
+    "en": "Cannot bet two gate for one session!",
+    "my": "sessionတစ်ခုအတွက် gate နှစ်ပေါက် လောင်း၍မရပါ။",
+    "lo": "ບໍ່ສາມາດວາງເດີມພັນສອງປະຕູສໍາລັບຫນຶ່ງເຊດຊັນ​!"
+  },
+  "txt_taixiu_choose_gate": {
+    "vi": "Vui lòng chọn cửa!",
+    "en": "Please choose gate!",
+    "my": "ကျေးဇူးပြု၍ ဂိတ်ကိုရွေးပါ။",
+    "lo": "ກະລຸນາເລືອກປະຕູ!"
+  },
+  "txt_check_phone_number": {
+    "vi": "Vui lòng nhập đúng định dạng số điện thoại!",
+    "en": "Please enter correct phone number format!",
+    "my": "ကျေးဇူးပြု၍ မှန်ကန်သော ဖုန်းနံပါတ်ကို ထည့်ပါ။",
+    "lo": "ກະລຸນາໃສ່ຮູບແບບເບີໂທລະສັບທີ່ຖືກຕ້ອງ!"
+  },
+  "txt_new_mail": {
+    "vi": "Bạn có một thư mới!\nXem ngay bây giờ?",
+    "en": "You have a new mail!\nCheck it now?",
+    "my": "သင့်တွင် မေးလ်အသစ်တစ်ခု ရှိသည်! ၎င်းကို ယခု စစ်ကြည့်မလား။",
+    "lo": "ທ່ານມີຈົດໝາຍໃໝ່!\nກວດເບິ່ງມັນດຽວນີ້ບໍ?"
+  },
+  "txt_change_info": {
+    "vi": "Cập Nhật Thông Tin",
+    "en": "Update Infomation",
+    "my": "Update သတင်းအချက်အလက် ",
+    "lo": "ອັບເດດຂໍ້ມູນ"
+  },
+  "txt_refund": {
+    "vi": "Hoàn Cược",
+    "en": "Cash Back",
+    "my": "Cash Back",
+    "lo": "ເດີ່ນພັນຄືນ"
+  },
+  "txt_refund_success": {
+    "vi": "Chúc mừng!\n Bạn đã nhận hoàn cược thành công.Vui lòng kiểm tra hòm thư để biết thêm chi tiết.",
+    "en": "Congratulation!\n You had get refund successfully.Please check mail to get infomation.",
+    "my": "ဂုဏ်ယူပါတယ်! ပြန်အမ်းငွေအားသင်လက်ခံရရှိပါသည်။သတင်းအချက်အလက်ရယူရန် ကျေးဇူးပြု၍ မေးလ်ကို စစ်ဆေးပါ။",
+    "lo": "ຂໍສະແດງຄວາມຍິນດີ!\nໄດ້ຮັບເງິນຄືນໃນມືຂອງເຈົ້າສຳເລັດແລ້ວ. ກະລຸນາກວດເບິ່ງເມລເພື່ອຮັບຂໍ້ມູນ."
+  },
+  "txt_refund_receive": {
+    "vi": "Đã Nhận",
+    "en": "Received",
+    "my": "လက်ခံရရှိခဲ့သည်။",
+    "lo": "ໄດ້ຮັບ"
+  },
+  "txt_refund_error": {
+    "vi": "Không có thông tin",
+    "en": "No Infomation",
+    "my": "အချက်အလက်မရှိပါ။",
+    "lo": "ບໍ່ມີຂໍ້ມູນ"
+  },
+  "txt_transaction_refund": {
+    "vi": "Hoàn tiền",
+    "en": "Refund",
+    "my": "ပြန်အမ်းငွေ",
+    "lo": "ເງິນຄືນ"
+  },
+  "txt_failed": {
+    "vi": "Thất bại",
+    "en": "Failed",
+    "my": "Failed",
+    "lo": "Failed"
+  },
+  "txt_success": {
+    "vi": "Thành công",
+    "en": "Success",
+    "my": "Success",
+    "lo": "Success"
+  },
+  "txt_request_cashout": {
+    "vi": "Đã gửi yêu cầu",
+    "en": "Request sended",
+    "my": "တောင်းဆိုချက်ကို ပေးပို့ခဲ့သည်။",
+    "lo": "ສົ່ງຄຳຮ້ອງຂໍແລ້ວ"
+  },
+  "txt_pending": {
+    "vi": "Chưa Xử Lý",
+    "en": "Pending",
+    "my": "ဆိုင်းငံ့ထားသည်။",
+    "lo": "ລໍຖ້າຢູ່"
+  },
+  "txt_receive2": {
+    "vi": "Đang Xử Lý",
+    "en": "Processing",
+    "my": "လုပ်ဆောင်နေသည်။",
+    "lo": "ກຳລັງແກ້ໄຂ"
+  },
+  "txt_progress": {
+    "vi": "Tiến Trình",
+    "en": "Progress",
+    "my": "တိုးတက်မှု",
+    "lo": "ຂະບວນການ"
+  },
+  "txt_end_after": {
+    "vi": "Kết thúc sau:",
+    "en": "End after:",
+    "my": " ပြီးဆုံးပြီးနောက်",
+    "lo": "ສິ້ນສຸດພາຍຫຼັງ:"
+  },
+  "txt_mail_title": {
+    "vi": "Tiêu đề: ",
+    "en": "Title: ",
+    "my": "ခေါင်းစဥ်: ",
+    "lo": "ຫົວຂໍ້: "
+  },
+  "txt_mail_content": {
+    "vi": "Nội dung: ",
+    "en": "Content: ",
+    "my": "အကြောင်းအရာ",
+    "lo": "ເນື້ອໃນ"
+  },
+  "txt_mail_time_send": {
+    "vi": "Ngày gửi: ",
+    "en": "Time: ",
+    "my": "အချိန်",
+    "lo": "ມື້ສົງ"
+  },
+  "txt_mail_from": {
+    "vi": "Người gửi: ",
+    "en": "From: ",
+    "my": "ထံမှ",
+    "lo": "ຜູ້ສົ່ງ"
+  },
+  "txt_congratulation": {
+    "vi": "Chúc mừng",
+    "en": "Congratulation",
+    "my": "ဂုဏ်ယူပါတယ်။",
+    "lo": "ຍີນດີ"
+  },
+  "txt_to_account": {
+    "vi": "Tới",
+    "en": "To",
+    "my": "ရန်",
+    "lo": "ເຖິງ"
+  },
+  "txt_welcome": {
+    "vi": "Chào mừng các bạn đến với cổng game Smart Fox! Cổng game quốc tế dành cho người Việt",
+    "en": "Welcome",
+    "my": "ကြိုဆိုပါတယ်။",
+    "lo": "ຍິນດີຕ້ອນຮັບ"
+  },
+  "txt_reenter_password": {
+    "vi": "Nhập lại mật khẩu",
+    "en": "Reenter password",
+    "my": "လျို့ဝှက်နံပါတ်ကိုပြန်လည်ထည့်သွင်းပါ",
+    "lo": "ໃສ່ລະຫັດຜ່ານໃໝ່"
+  },
+  "txt_nickname": {
+    "vi": "Tên nhân vật",
+    "en": "Nickname",
+    "my": "Nickname",
+    "lo": "ຊື່ຫຼິ້ນ"
+  },
+  "txt_username": {
+    "vi": "Tên đăng nhập",
+    "en": "Username",
+    "my": "အသုံးပြုသူအမည်",
+    "lo": "ຊື່ຜູ້ໃຊ້"
+  },
+  "txt_total": {
+    "vi": "Tổng",
+    "en": "Total",
+    "my": "စုစုပေါင်း",
+    "lo": "ທັງໝົດ"
+  },
+  "txt_session_detail": {
+    "vi": "CHI TIẾT PHIÊN",
+    "en": "Session Detail",
+    "my": "Session အသေးစိတ်",
+    "lo": "ລາຍລະອຽດຂອງເຊດຊັນ"
+  },
+  "txt_soi_cau": {
+    "vi": "SOI CẦU",
+    "en": "DUNNO",
+    "my": "DUNNO",
+    "lo": "DUNNO"
+  },
+  "txt_actual_receive": {
+    "vi": "Thực Nhận",
+    "en": "Received",
+    "my": "Received",
+    "lo": "ໄດ້ຮັບ"
+  },
+  "txt_allin": {
+    "vi": "Tất tay",
+    "en": "All in",
+    "my": "All in",
+    "lo": "ທັງ​ຫມົດ​"
+  },
+  "txt_cancel_bet": {
+    "vi": "Huỷ",
+    "en": "Cancel",
+    "my": "Cancel",
+    "lo": "ຍົກເລີກ"
+  },
+  "txt_bet_allin": {
+    "vi": "Bạn có muốn đặt toàn bộ số tiền?",
+    "en": "Do you want to all in?",
+    "my": "သင်အားလုံးပါဝင်ကစားချင်ပါသလား။?",
+    "lo": "ເຈົ້າຕ້ອງການທັງໝົດບໍ?"
+  },
+  "txt_cards_set": {
+    "vi": "Bộ Bài",
+    "en": "Card Set",
+    "my": "Card Set",
+    "lo": "ຊຸດໄພ່"
+  },
+  "txt_download_game": {
+    "vi": "Tải tài nguyên, không tốn dung lượng.",
+    "en": "Downloading resources, no data needed.",
+    "my": "ဒေါင်းလုဒ်လုပ်နေသည်၊ ဒေတာမလိုအပ်ပါ။",
+    "lo": "ການດາວໂຫຼດຊັບພະຍາກອນ, ບໍ່ຈໍາເປັນຕ້ອງມີຂໍ້ມູນ."
+  },
+  "txt_enter_new_password": {
+    "vi": "Nhập mật khẩu mới",
+    "en": "Enter new password",
+    "my": "လျို့ဝှက်နံပါတ်အသစ်ထည့်ပါ။",
+    "lo": "ໃສ່ລະຫັດຜ່ານໃໝ່"
+  },
+  "txt_dice": {
+    "vi": "Xúc xắc",
+    "en": "Dice",
+    "my": "အန်စာတုံး",
+    "lo": "ລຸກເຕ່າ"
+  },
+  "txt_detail": {
+    "vi": "CHI TIẾT",
+    "en": "Detail",
+    "my": "Detail",
+    "lo": "ລາຍລະອຽດ"
+  },
+  "txt_honors": {
+    "vi": "Vinh Danh",
+    "en": "Honor",
+    "my": "Honor",
+    "lo": "ກຽດນິຍົມ"
+  },
+  "txt_history_pot": {
+    "vi": "Lịch sử hũ",
+    "en": "History Pot",
+    "my": "History Pot",
+    "lo": "ຫວັດສາດPot"
+  },
+  "txt_free_turn": {
+    "vi": "Lượt miễn phí",
+    "en": "Free turn",
+    "my": "အလှည့်ကျ",
+    "lo": "ລ້ຽວຟຣີ"
+  },
+  "txt_slot_select_line": {
+    "vi": "Chọn dòng",
+    "en": "Select line",
+    "my": "လိုင်းကိုရွေးပါ။",
+    "lo": "ເລືອກແຖວ"
+  },
+  "txt_trigger_pot": {
+    "vi": "Nổ Hũ",
+    "en": "Jackpot",
+    "my": "Jackpot",
+    "lo": "Jackpot"
+  },
+  "txt_ds_fast": {
+    "vi": "Siêu Tốc",
+    "en": "Fast",
+    "my": "Fast",
+    "lo": "ໄວ"
+  },
+  "txt_ds_auto": {
+    "vi": "Tự Quay",
+    "en": "Auto",
+    "my": "Auto",
+    "lo": "ອັດຕະໂນມັດ"
+  },
+  "txt_line": {
+    "vi": "Dòng",
+    "en": "Line",
+    "my": "Line",
+    "lo": "ສາຍ"
+  },
+  "txt_total_bet": {
+    "vi": "Tổng cược",
+    "en": "Total bet",
+    "my": "Total bet",
+    "lo": "ລວມຄະແນນເດີນພັນ"
+  },
+  "txt_pot": {
+    "vi": "Hũ",
+    "en": "Jackpot",
+    "my": "Jackpot",
+    "lo": "Jackpot"
+  },
+  "txt_ds_break_jewel": {
+    "vi": "Đập kim cương",
+    "en": "Break Jewel",
+    "my": "ရတနာကို ချိုးပါ။",
+    "lo": "ທໍາລາຍເພັດ"
+  },
+  "txt_ds_break_jewel_5": {
+    "vi": "Đập kim cương x5",
+    "en": "Break Jewel x5",
+    "my": "ရတနာကို ချိုးပါ။ x5",
+    "lo": "ທໍາລາຍເພັດ x5"
+  },
+  "txt_slot_even": {
+    "vi": "Chẵn",
+    "en": "Even",
+    "my": "Even",
+    "lo": "ເຖິງແມ່ນວ່າ"
+  },
+  "txt_slot_odd": {
+    "vi": "Lẻ",
+    "en": "Odd",
+    "my": "Odd",
+    "lo": "ຄີກ"
+  },
+  "txt_slot_all": {
+    "vi": "Tất cả",
+    "en": "All",
+    "my": "စုစုပေါင်း",
+    "lo": "ທັງໝົດ"
+  },
+  "txt_slot_empty": {
+    "vi": "Bỏ chọn",
+    "en": "Empty",
+    "my": "ဗလာ",
+    "lo": "ຫວ່າງເປົ່າ"
+  },
+  "txt_spin": {
+    "vi": "Quay",
+    "en": "Spin",
+    "my": "Spin",
+    "lo": "ມ້ວນ"
+  },
+  "txt_fast_spin": {
+    "vi": "Nhanh",
+    "en": "Fast",
+    "my": "Fast",
+    "lo": "ໄວ"
+  },
+  "txt_slot_auto": {
+    "vi": "Tự Quay",
+    "en": "Auto",
+    "my": "Auto",
+    "lo": "ອັດຕະໂນມັດ"
+  },
+  "txt_tt_bonus": {
+    "vi": "Săn rương",
+    "en": "Hunt chest",
+    "my": "Hunt chest",
+    "lo": "ລ່າຫີບ​"
+  },
+  "txt_tt_bonus_5": {
+    "vi": "Sẵn rương x5",
+    "en": "Hunt chest x5",
+    "my": "Hunt chest x5",
+    "lo": "ລ່າຫີບx5"
+  },
+  "txt_bt_tut_1": {
+    "vi": "Biểu tượng Wild có thể thay thế tất cả trừ Scatter, Bonus và Jackpot. Nếu biểu tượng Wild xuất hiện ở 1 vị trí bất kỳ thì tất cả phần tử cột đó sẽ được thay thế bằng Wild. Tổ hợp trả thưởng phải đảm bảo quy tắc: bắt đầu từ cột thứ 1, liên tiếp nhau và tính từ trái qua phải, trừ Scatter và Bonus",
+    "en": "Icon Wild can be replaced all but Scatter, Bonus and Jackpot. If icon Wild is trigger in any position, all elements in column is replaced by icon Wild. The payout combination must ensure the following rules: starting from the 1st column, consecutively and counting from left to right, except for Scatter and Bonus",
+    "my": "Icon wild ကို scatter၊Bonus နှင့်Jackpot မှ လွဲ၍အားလုံးကိုအစားထိုးနိုင်ပါသည်။ Icon Wild သည်\nမည်သည့်အနေထားတွင်မဆို အစပျိုးပါကကော်လံရှိအစိတ်ပိုင်းအားလုံးကို icon wild ဖြင့်အစားထိုး\nမည် ဖြစ်သည်။ ငွေပေးချေမှုများကို အောက်ပါစည်းမျည်းစည်းကမ်းများအတိုင်း သတ်မှတ်ပါသည်။ Scatter နှင့်Bonus မှလွဲ၍ ကော်လံ အမှတ် ၁ မှစတင်၍ရှေ့ဆင့်နောက်ဆင့် ဘယ်မှညာသို့ရေတွက်ပါ။",
+    "lo": "Icon Wild ສາມາດຖືກແທນທີ່ທັງຫມົດແຕ່ Scatter, Bonus ແລະ Jackpot. ຖ້າໄອຄອນ Wild ຖືກກະຕຸ້ນໃນຕຳແໜ່ງໃດກໍ່ຕາມ, ອົງປະກອບທັງໝົດໃນຖັນຈະຖືກແທນທີ່ດ້ວຍໄອຄອນ Wild. ການປະສົມປະສານການຈ່າຍເງິນຕ້ອງຮັບປະກັນກົດລະບຽບຕໍ່ໄປນີ້: ເລີ່ມຕົ້ນຈາກຖັນທີ 1, ຕິດຕໍ່ກັນແລະນັບຈາກຊ້າຍໄປຂວາ, ຍົກເວັ້ນ Scatter ແລະ Bonus"
+  },
+  "txt_bt_tut_2": {
+    "vi": "Có ít nhất 3 biểu tương ở vị trí bất kỳ sẽ được chơi minigame",
+    "en": "There are at least 3 icons in any position to play the minigame",
+    "my": "မီနီဂိမ်းကစားရန် မည်သည့်အနေအထားတွင်မဆို အနည်းဆုံး အိုင်ကွန် 3 ခုရှိပါသည်။",
+    "lo": "ມີຢ່າງໜ້ອຍ 3 ໄອຄອນຢູ່ໃນຕຳແໜ່ງໃດນຶ່ງເພື່ອຫຼິ້ນມິນິເກມ"
+  },
+  "txt_bt_tut_3": {
+    "vi": "Có ít nhất 3 biểu tương ở vị trí bất kỳ sẽ được lượt chơi miễn phí",
+    "en": "There are at least 3 symbols in any position to get free spins",
+    "my": "အခမဲ့လှည့်ခြင်းရယူရန် မည်သည့်အနေအထားတွင်မဆို အနည်း ဆုံး သင်္ကေတ 3 ခုရှိရမည်။",
+    "lo": "ມີຢ່າງຫນ້ອຍ 3 ສັນຍາລັກຢູ່ໃນຕໍາແຫນ່ງໃດເພື່ອໃຫ້ໄດ້ຮັບສະປິນຟຣີ"
+  },
+  "txt_fee": {
+    "vi": "Phí",
+    "en": "Fee",
+    "my": "ဝန်ဆောင်ခ",
+    "lo": "ຄ່າທຳນຽມ"
+  },
+  "txt_display_name_short": {
+    "vi": "Tên hiển thị ít nhất 6 ký tự",
+    "en": "Nickname requires at lease 6 characters",
+    "my": "Nickname အတွက် အနည်းဆုံး စာလုံး 6 လုံး လိုအပ်ပါသည်။",
+    "lo": "ຊື່ຫຼິ້ນຕ້ອງມີຢ່າງໜ້ອຍ 6 ຕົວອັກສອນ"
+  },
+  "txt_username_displayname_equal": {
+    "vi": "Tên hiển thị không được giống tên đăng nhập",
+    "en": "Nickname must be different to username",
+    "my": "Nickname သည် အသုံးပြုသူအမည်နှင့် ကွဲပြားရပါမည်။",
+    "lo": "ຊື່ຫຼິ້ນຕ້ອງແຕກຕ່າງຈາກຊື່ຜູ້ໃຊ້"
+  },
+  "txt_create_nickname_successful": {
+    "vi": "Cập nhật tên hiển thị thành công",
+    "en": "Update nickname successfully",
+    "my": "Nicknameအဆင့်မြှင့်တင်ခြင်းအောင်မြင်ပါသည်။",
+    "lo": "ອັບເດດຊື່ຫຼິ້ນສຳເລັດແລ້ວ"
+  },
+  "txt_phone_inactive": {
+    "vi": "Chưa kích hoạt sđt",
+    "en": "Phone number is not activated",
+    "my": "ဖုန်းနံပါတ်သည် activated မဖြစ်ပါ။",
+    "lo": "ເບີໂທລະສັບບໍ່ໄດ້ຖືກເປີດໃຊ້"
+  },
+  "txt_update_successfully": {
+    "vi": "Cập nhật thành công",
+    "en": "Update successfully",
+    "my": "အဆင့်မြှင့်တင်ခြင်းအောင်မြင်ပါသည်။",
+    "lo": "ອັບເດດສຳເລັດແລ້ວ"
+  },
+  "txt_disconnected": {
+    "vi": "Mất kết nối! Vui lòng kết nối lại.",
+    "en": "Disconnected! Please reload.",
+    "my": "Connection ပျက်တောက်သွားသည့်အတွက် ကျေးဇူးပြု၍ ပြန်လည် လုပ်ဆောင်ပေးပါ",
+    "lo": "ຕັດການເຊື່ອມຕໍ່ແລ້ວ! ກະລຸນາໂຫຼດໃໝ່."
+  },
+  "txt_how_to_play": {
+    "vi": "Cách chơi",
+    "en": "Tutorial",
+    "my": "Tutorial",
+    "lo": "Tutorial"
+  },
+  "txt_how_to_play_description": {
+    "vi": "Người chơi kết hợp 2 lá bài có trong tay với 5 lá bài mở trên bàn thành bộ bài để giành lấy chiến thắng.",
+    "en": "Poker is a strategy and mechanic game. You must know how to bet with your current hand. The best hand is a hand with the best combination.",
+    "my": "Poker သည်နည်းဗျူဟာနှင့်mechanic game ဖြစ်သည်။ သင်၏လက်ရှိ ကဒ် ဖြင့်မည်သို့လောင်းရမည်ကိုသင်သိရမည်။ အကောင်းဆုံး ကဒ် သည်အကောင်းဆုံးပေါင်းစပ်မှုဖြစ်သည်။",
+    "lo": "ຜຸ້ຫລີ້ນລວມໄພ່2ໃບໃນມືກັບໄພ່ທີເປີດຢຸ່5ໃບບົນໂຕະເພື່ອສ້າງສຳລັບທີຈະຊະນະ"
+  },
+  "txt_pair": {
+    "vi": "Đôi",
+    "en": "Pair",
+    "my": "Pair",
+    "lo": "ຄຸ່"
+  },
+  "txt_J_pair": {
+    "vi": "Đôi J+",
+    "en": "J pair or higher",
+    "my": "J pair or higher",
+    "lo": "ຄຸ່"
+  },
+  "txt_two_pairs": {
+    "vi": "Thú",
+    "en": "Two Pairs",
+    "my": "Two Pairs",
+    "lo": "ສອງຄູ່"
+  },
+  "txt_three_of_a_kind": {
+    "vi": "Sám Cô",
+    "en": "Three of a Kind",
+    "my": "Three of a Kind",
+    "lo": "ສາມ​ປະ​ເພດ​"
+  },
+  "txt_straight": {
+    "vi": "Sảnh",
+    "en": "Straight",
+    "my": "Straight",
+    "lo": "ກົງ"
+  },
+  "txt_flush": {
+    "vi": "Thùng",
+    "en": "Flush",
+    "my": "Flush",
+    "lo": "ຖັງ"
+  },
+  "txt_full_house": {
+    "vi": "Cù lũ",
+    "en": "Full House",
+    "my": "Full House",
+    "lo": "ເຕັມເຮືອນ"
+  },
+  "txt_4_of_a_kind": {
+    "vi": "Tứ Quý",
+    "en": "4 of a Kind",
+    "my": "4 of a Kind",
+    "lo": "4 ປະ​ເພດ​"
+  },
+  "txt_straight_flush": {
+    "vi": "Thùng Phá Sảnh",
+    "en": "Straight Flush",
+    "my": "Straight Flush",
+    "lo": "ຖັງໂຟຟຮັນ"
+  },
+  "txt_royal_flush": {
+    "vi": "Sảnh Chúa",
+    "en": "Royal Flush",
+    "my": "Royal Flush",
+    "lo": "ໂຮໂຟຟຮັນ"
+  },
+  "txt_sedie_even": {
+    "vi": "Chẵn 1x98",
+    "en": "Even 1x98",
+    "my": "ပုံမှန်နံပါတ် 1x98",
+    "lo": "ຄຸ່ 1x98"
+  },
+  "txt_sedie_odd": {
+    "vi": "Lẻ 1x98",
+    "en": "Odd 1x98",
+    "my": "မကိန်းနံပါတ်1x98",
+    "lo": "ຄີກ 1x98"
+  },
+  "txt_in_spin_progress": {
+    "vi": "Hiện đang trong tiến trình quay.",
+    "en": "Spinning",
+    "my": "လှည့်နေပါသည်။",
+    "lo": "ປະຈຸບັນພວມດຳເນີນໝຸນ"
+  },
+  "txt_not_in_trial": {
+    "vi": "Chức năng này không có ở chế độ chơi thử.",
+    "en": "This function doesn't work in trial mode",
+    "my": "ဤလုပ်ဆောင်ချက်ကို အစမ်းသုံးမုဒ်တွင် မရရှိနိုင်ပါ။",
+    "lo": "ຟັງຊັນນີ້ໃຊ້ບໍ່ໄດ້ໃນໂໝດທົດລອງ"
+  },
+  "txt_trial_play": {
+    "vi": "chơi thử",
+    "en": "trial mode",
+    "my": "အစမ်းသုံးမုဒ်",
+    "lo": "ຮູບ​ແບບ​ການ​ທົດ​ລອງ​"
+  },
+  "txt_real_play": {
+    "vi": "chơi thật",
+    "en": "real mode",
+    "my": "အစစ်အမှန်မုဒ်",
+    "lo": "ຮູບແບບທີ່ແທ້ຈິງ"
+  },
+  "txt_start_bet": {
+    "vi": "Bắt đầu đặt cược",
+    "en": "Start bet",
+    "my": "စတင်လောင်းကြေးထပ်ခြင်း",
+    "lo": "ເລີ່ມການເດີມພັນ"
+  },
+  "txt_stop_bet": {
+    "vi": "Dừng đặt cược",
+    "en": "Stop bet",
+    "my": "လောင်းကစားပွဲအားရပ်ဆိုင်မည်",
+    "lo": "ຢຸດການເດີມພັນ"
+  },
+  "txt_bet_wrong_gate": {
+    "vi": "Cửa đặt không hợp lệ",
+    "en": "Invalid gate! Please select again.",
+    "my": "Gate ရွေးချယ်မှုမမှန်ကန်ပါ ။ကျေးဇူးပြု၍ထပ်မံရွေးချယ်ပါ။",
+    "lo": "ປະຕູບໍ່ຖືກຕ້ອງ"
+  },
+  "txt_no_double_data": {
+    "vi": "Không có dữ liệu gấp thếp",
+    "en": "There is no double data",
+    "my": "ဒေတာမရှိပါ ",
+    "lo": "ບໍ່ມີຂໍ້ມູນສອງເທົ່າ"
+  },
+  "txt_no_bet_data": {
+    "vi": "Không có dữ liệu đặt lại",
+    "en": "There is no bet data",
+    "my": "လောင်းကစားအချက်အလက်များမရှိပါ",
+    "lo": "ບໍ່ມີຂໍ້ມູນການເດີມພັນ"
+  },
+  "txt_start_refund": {
+    "vi": "Bắt đầu cân cửa!",
+    "en": "Refund!",
+    "my": "ပြန်အမ်းငွေ",
+    "lo": "ເລີ່ມການເດີ່ນພັນ"
+  },
+  "txt_receive_name_empty": {
+    "vi": "Tên người nhận không được trống",
+    "en": "Receiver name cannot be empty",
+    "my": "လက်ခံသူအမည်ကို ထည့်သွင်းပါ",
+    "lo": "ຊື່ຜູ້ຮັບບໍ່ສາມາດຫວ່າງເປົ່າໄດ້"
+  },
+  "txt_money_field_empty": {
+    "vi": "Tiền không được trống",
+    "en": "Money field cannot be empty",
+    "my": "ပိုက်ဆံအားထည့်သွင်းပါ",
+    "lo": "ຊ່ອງເງິນບໍ່ສາມາດຫວ່າງເປົ່າໄດ້"
+  },
+  "txt_taixiu_tutorial": {
+    "vi": "Cách chơi tài xỉu",
+    "en": "Hi Lo Tutorial",
+    "my": "Hi Lo Tutorial",
+    "lo": "ວີທີຫລີ້ນ HI LO"
+  },
+  "txt_taixiu_tai": {
+    "vi": "Tài",
+    "en": "Hi",
+    "my": "Hi",
+    "lo": "Hi"
+  },
+  "txt_taixiu_xiu": {
+    "vi": "Xỉu",
+    "en": "Lo",
+    "my": "Lo",
+    "lo": "Lo"
+  },
+  "txt_result_taixiu_tai": {
+    "vi": " :Giá trị kết quả tổng 3 xúc xắc trong khoảng từ 11-18",
+    "en": " :Total dice result is between 11 and 18",
+    "my": " :အန်စာတုံး 3 ခု၏ ရလဒ်တန်ဖိုးသည် 11 နှင့် 18 ကြားဖြစ်သည်။ ",
+    "lo": " :ຜົນ​ໄດ້​ຮັບ​ຂອງ dice ທັງ​ຫມົດ​ແມ່ນ​ຢູ່​ລະ​ຫວ່າງ 11 ແລະ 18​"
+  },
+  "txt_result_taixiu_xiu": {
+    "vi": " :Giá trị kết quả tổng 3 xúc xắc trong khoảng từ 3-10",
+    "en": " :Total dice result is between 3 and 10",
+    "my": " :အန်စာတုံး 3 ခု၏ ရလဒ်တန်ဖိုးသည် 3 နှင့် 10 ကြားဖြစ်သည်။",
+    "lo": " :ຜົນ​ໄດ້​ຮັບ​ຂອງ dice ທັງ​ຫມົດ​ແມ່ນ​ຢູ່​ລະ​ຫວ່າງ 3 ແລະ 10​"
+  },
+  "txt_taixiu_game_desc": {
+    "vi": "Người chơi có thể đặt không giới hạn tiền vào tài hoặc xỉu, chỉ được đặt ở 1 cửa trong 1 phiên chơi. Sau khi đặt tiền, hệ thống tính toán để 2 cửa cân bằng số tiền. Số tiền thừa sẽ được hoàn trả vào tài khoản người chơi.",
+    "en": "Player can bet unlimited into high or low, 1 gate per 1 session. After betting phase, the system will calculate and balance 2 gates. The exceeded money will be refunded to users.",
+    "my": "ကစားသ မားသည် session တစ်ခုလျှင် 1 gateဖြင့် အမြင့်ဆုံးလောင်းကြေး သိုမဟုတ် အနိမ့်ဆုံးလောင်းကြေးသို အကန့်အသတ်မရှိ\nလောင်းနိုင်သည်။ လောင်းကြေးထပ်ပြီးပါက၊ System မှ gate 2 ခုကို တွက်ချက်ပေးပါလိမ့်မည်။ ကျော်လွန်သောငွေကို\nသုံးစွဲသူများထံ ပြန်အမ်းပေးပါမည်။ ",
+    "lo": "ຜູ້ນສາມາດວາງເດີມພັນໄດ້ບໍ່ຈໍາກັດໃນລະດັບສູງຫຼືຕ່ໍາ, 1 ປະຕູຕໍ່ 1 ເຊດຊັນ. ຫຼັງຈາກໄລຍະການພະນັນ, ລະບົບຈະຄິດໄລ່ແລະດຸ່ນດ່ຽງ 2 ປະຕູ. ເງິນທີ່ເກີນຈະຖືກສົ່ງຄືນໃຫ້ຜູ້ໃຊ້."
+  },
+  "txt_taixiu_fee_desc": {
+    "vi": "Hệ thống sẽ thu 5% phí từ số tiền thằng của người chơi",
+    "en": "The system will claim 5% of total win",
+    "my": "အဆိုပါစနစ်သည်အနိုင်ရရှိသူကစားသမားထံမှ5%အား အခကြေးငွေအဖြစ်ကောက်ခံမည်ဖြစ်သည်။ ",
+    "lo": "ລະບົບຈະອ້າງເອົາ 5% ຂອງໄຊຊະນະທັງໝົດ"
+  },
+  "txt_stop": {
+    "vi": "Dừng",
+    "en": "Stop",
+    "my": "Stop",
+    "lo": "ຢຸດ"
+  },
+  "txt_baccarat_banker": {
+    "vi": "Nhà Cái",
+    "en": "Banker",
+    "my": "Banker",
+    "lo": "Banker"
+  },
+  "txt_baccarat_player": {
+    "vi": "Nhà Con",
+    "en": "Player",
+    "my": "Player",
+    "lo": "Player"
+  },
+  "txt_baccarat_player_pair": {
+    "vi": "Con Đôi",
+    "en": "P.Pair",
+    "my": "P.Pair",
+    "lo": "P.Pair"
+  },
+  "txt_baccarat_banker_pair": {
+    "vi": "Cái Đôi",
+    "en": "B.Pair",
+    "my": "B.Pair",
+    "lo": "B.Pair"
+  },
+  "txt_baccarat_tie": {
+    "vi": "Hoà",
+    "en": "Tie",
+    "my": "Tie",
+    "lo": "Tie"
+  },
+  "txt_baccarat_player_hand": {
+    "vi": "Bài Con",
+    "en": "P.Cards",
+    "my": "P.Cards",
+    "lo": "P.Cards"
+  },
+  "txt_baccarat_banker_hand": {
+    "vi": "Bài Cái",
+    "en": "B.Cards",
+    "my": "B.Cards",
+    "lo": "B.Cards"
+  },
+  "txt_baccarat_dealing_cards_rule": {
+    "vi": "LUẬT CHIA BÀI",
+    "en": "DEALING CARDS RULE",
+    "my": "ဥပဒေများ",
+    "lo": "ກົດລະບຽບຂອງການແຈກໄພ່"
+  },
+  "txt_baccarat_player_card_point": {
+    "vi": "Điểm 2 lá đầu của PLAYER",
+    "en": "PLAYER's first 2 cards point",
+    "my": "ကစားသမား၏ ပထမ ကတ် ၂ခု",
+    "lo": "ຄະແນນ 2 ໃບ ທຳອິດຂອງ PLAYER"
+  },
+  "txt_baccarat_banker_card_point": {
+    "vi": "Điểm 2 lá đầu của BANKER",
+    "en": "BANKER's first 2 cards point",
+    "my": "ဒိုင်၏ ပထမ ကတ် ၂ခု",
+    "lo": "ຄະແນນ 2 ໃບທໍາອິດຂອງ BANKER"
+  },
+  "txt_baccarat_draw_3rd_card": {
+    "vi": "Luật rút lá thứ 3",
+    "en": "3rd card drawing rule",
+    "my": "တတိယအကြိမ် ဆွဲခြင်း",
+    "lo": "ກົດລະບຽບການຈົກໄພ່ໃບທີສາມ"
+  },
+  "txt_baccarat_must_draw": {
+    "vi": "Phải rút",
+    "en": "Must draw",
+    "my": "ဆွဲရမည်",
+    "lo": "ຈົກໄພ່"
+  },
+  "txt_baccarat_not_draw": {
+    "vi": "Không rút",
+    "en": "Not draw",
+    "my": "ရုတ်သိမ်းသည်",
+    "lo": "ບໍ່ຈົກ"
+  },
+  "txt_baccarat_win": {
+    "vi": "Thắng tự nhiên",
+    "en": "Win",
+    "my": "အနိုင်ရရှိသည်",
+    "lo": "ຊະນະ"
+  },
+  "txt_baccarat_rule_description": {
+    "vi": "     Người chơi tiến hành đặt cược vào các tụ có trên bàn chơi. Sau khi hết thời gian cược, hệ thống sẽ bắt đầu chia bài và tính kết quả. Dựa trên kết quả tương ứng sẽ tính trả thưởng cho người chơi.",
+    "en": "     User can bet the gate that on the table. After finish betting phase, Dealer will deal cards and calculate result. The users will get the reward based on their bet.",
+    "my": "     အသုံးပြုသူသည် စားပွဲပေါ်ရှိ ဂိတ်ပေါက်ကို လောင်းနိုင်သည်။  လောင်းကြေးထပ်ပြီးပါက၊ အ ရောင်းကိုယ်စားလှယ်သည် ကတ်များကို ပေးချေပြီး ရလဒ်ကို တွက်ချက်မည်ဖြစ်သည်။ အသုံးပြုသူ များသည် ၎င်းတို့၏ လောင်းကြေးအပေါ် အခြေခံ၍ ဆုလာဘ်များ ရရှိမည်ဖြစ်သည်။",
+    "lo": "     ຜູ້​ຫລິ້ນ​ສາ​ມາດ​ພະ​ນັນ​ປະ​ຕູ​ຮົ້ວ​ທີ່​ຢູ່​ໃນ​ຕາ​ຕະ​ລາງ​. ຫຼັງຈາກສິ້ນສຸດໄລຍະການພະນັນ, ຕົວແທນຈໍາຫນ່າຍຈະແຈກໄພ່ແລະຄິດໄລ່ຜົນໄດ້ຮັບ. ຜູ້ໃຊ້ຈະໄດ້ຮັບລາງວັນໂດຍອີງໃສ່ການເດີມພັນຂອງພວກເຂົາ."
+  },
+  "txt_baccarat_points_description": {
+    "vi": "     Điểm của các lá bài được tính như sau:",
+    "en": "     Cards point is defined as below:",
+    "my": "     ကတ်များ၏ အမှတ်များကို အောက်ပါအတိုင်း တွက်ချက်ပါသည်။",
+    "lo": "     ຄະແນນຂອງໄພ່ຖືກໄລ່ດັ່ງຕໍ່ໄປນີ້:"
+  },
+  "txt_baccarat_point_rule": {
+    "vi": "Cách Tính Điểm",
+    "en": "Calculating rule",
+    "my": "ရမှတ်တွက်ချက်နည်း ",
+    "lo": "ວິທີການຄິດໄລ່ຄະແນນ"
+  },
+  "txt_baccarat_card_point": {
+    "vi": "Điểm tương ứng giá trị bài",
+    "en": "Equal to card value",
+    "my": "အမှတ်များသည် ကတ်များ၏တန်ဖိုးနှင့် ကိုက်ညီပါသည်။ ",
+    "lo": "ເທົ່າກັບມູນຄ່າໄພ່"
+  },
+  "txt_baccarat_1_point": {
+    "vi": "Tính 1 điểm",
+    "en": "As 1 point",
+    "my": "တစ်မှတ်လျှင်",
+    "lo": "ໄລ່1ຄະແນນ"
+  },
+  "txt_baccarat_10_point": {
+    "vi": "Tính 10 điểm",
+    "en": "As 10 point",
+    "my": "10 မှတ်လျှင်။ ",
+    "lo": "ໄລ່10ຄະແນນ"
+  },
+  "txt_example": {
+    "vi": "Ví dụ:",
+    "en": "Example:",
+    "my": "ဥပမာ",
+    "lo": "ຕົວຢ່າງ:"
+  },
+  "txt_baccarat_to_player": {
+    "vi": "- Đối với PLAYER",
+    "en": "- To PLAYER",
+    "my": "- ကစားသမားအတွက်",
+    "lo": "- ສຳລັບ PLAYER"
+  },
+  "txt_baccarat_to_banker": {
+    "vi": "- Đối với BANKER",
+    "en": "- To BANKER",
+    "my": "- ဒိုင်အတွက်",
+    "lo": "- ສຳລັບ PLAYER"
+  },
+  "txt_baccarat_3rd_card_draw": {
+    "vi": "+ Nếu điểm của PLAYER là 6 hoặc 7, mà điểm của BANKER từ 0 - 5, BANKER phải rút lá thứ 3.",
+    "en": "+ If PLAYER's total points is 6 or 7, BANKER's total points is 0 - 5, BANKER must draw 3rd card.",
+    "my": "+ အကယ်၍ ကစားသမား ၏ရမှတ်သည် 6 သို့မဟုတ် 7 ဖြစ်ပြီး ဒိုင် ၏ရမှတ်သည် 0 - 5 ဖြစ်ပါက ဒိုင်သည် တတိယကတ်ကိုဆွဲရပါမည်။",
+    "lo": "+ ຖ້າຄະແນນທັງໝົດຂອງ PLAYER ແມ່ນ 6 ຫຼື 7, ຄະແນນທັງໝົດຂອງ BANKER ແມ່ນ 0 - 5, BANKER ຕ້ອງຈົກບັດທີສາມ."
+  },
+  "txt_baccarat_3rd_card_draw1": {
+    "vi": "+ Ngoài ra các trường hợp khác BANKER phải rút lá thứ 3 dựa trên điểm lá thứ 3 của PLAYER.",
+    "en": "+ Beside that there are some cases BANKER must draw 3rd card based on PLAYER's 3rd card point.",
+    "my": "+ ၎င်းအပြင် ဒိုင်သည် ကစားသမား၏ကဒ် 3 ကဒ်ရမှတ်အပေါ်အခြေခံ၍ ကဒ်  3 ကဒ် ကိုဆွဲရပါမည်။",
+    "lo": "+ ນອກຈາກນັ້ນ, ຍັງມີບາງກໍລະນີທີ່ BANKER ຕ້ອງຈົກໄພ່ໃບທີສາມໂດຍອີງໃສໄພ່ໃບທີສາມ PLAYER."
+  },
+  "txt_baccarat_3rd_card_draw2": {
+    "vi": "Phải rút nếu lá thứ 3 của PLAYER là",
+    "en": "Must draw if PLAYER's 3rd card is",
+    "my": "ကစားသမား ၏ ကဒ် 3ကဒ် ဖြစ်ပါက ဆွဲရပါမည်။",
+    "lo": "ຕ້ອງຈົກໄພ່ຖ້າໄພ່ທີ3ຂອງ PLAYER ແມ່ນ"
+  },
+  "txt_baccarat_3rd_card_draw3": {
+    "vi": "Phải rút nếu lá thứ 3 của PLAYER khác",
+    "en": "Must draw if PLAYER's 3rd card different from",
+    "my": "ကစားသမား ၏ ကဒ် 3ကဒ်မတူညီပါကဆွဲရပါမည်။",
+    "lo": "ຕ້ອງຈົກໄພ່ຖ້າໄພ່ທີ3ຂອງ PLAYER ແຕກຕ່າງ"
+  },
+  "txt_baccarat_dealing_card_rule": {
+    "vi": "Bắt đầu mỗi ván, bài sẽ được chia theo thứ tự:",
+    "en": "At the beginning of each session, card is dealt by the order:",
+    "my": "ဂိမ်းတစ်ခုစီ၏အစတွင် ကတ်များကို စနစ်တကျ ပေးဝေမည်ဖြစ်သည်။",
+    "lo": "ເລີ່ມແຕ່ລະເກມແຜ່ນ, ໄພ່ແມ່ນ dealt ໂດຍຄໍາສັ່ງ"
+  },
+  "txt_win_lines": {
+    "vi": "Các dòng trúng thưởng",
+    "en": "Lines win",
+    "my": "လိုင်းများအနိုင်ရခြင်း",
+    "lo": "ສາຍຊະນະ"
+  },
+  "txt_win_reward": {
+    "vi": "Luật tính tiền",
+    "en": "Reward",
+    "my": "ဆုကြေး",
+    "lo": "ກົດໄລ່ເງີນ"
+  },
+  "txt_slot_bonus_pick": {
+    "vi": "Số lượt bốc: ",
+    "en": "Remaining turn: ",
+    "my": "ဘယ်ဘက်သို့လှည့်ပါ ",
+    "lo": "ຈໍານວນແຕ້ມ: "
+  },
+  "txt_sieuxe_helper_desc1": {
+    "vi": "Trên màn hình nếu xuất hiện ",
+    "en": "On game screen if ",
+    "my": "Game Screen ပေါ်တွင်",
+    "lo": "ໃນຫນ້າຈໍຖ້າຫາກວ່າປະກົດຂຶ້ນ"
+  },
+  "txt_sieuxe_helper_desc2": {
+    "vi": "Wild có thể thay thế mọi icon, trừ",
+    "en": "Wild can replace every icon, except",
+    "my": "Wild မှလွဲ၍ အိုင်ကွန်အားလုံးကို အစားထိုးနိုင်သည်။ ",
+    "lo": "Wild ສາມາດປ່ຽນແທນທຸກໄອຄອນ, ຍົກເວັ້ນ"
+  },
+  "txt_sieuxe_helper_desc3": {
+    "vi": "2 cuộn cuối gồm hệ số nhận thêm của giải thưởng. Hệ số nhận thêm sẽ mất giá trị nếu",
+    "en": "2 final reel include multiply factor of reward. Multiply factor will lose effect if",
+    "my": "နောက်ဆုံး reel 2ခုတွင်ဆုငွေ၏ဆပွါးကိန်းဂဏန်းများပါဝင်သည်။ ကိန်းဂဏန်းများဆိုလျှင် အကျိုးသက်\nရောက်မှု ဆုံးရှုံးပါမည်။",
+    "lo": "2 ມ້ວນສຸດທ້າຍປະກອບມີປັດໄຈຄູນຂອງລາງວັນ. ປັດໄຈຄູນຈະສູນເສຍຜົນກະທົບຖ້າຫາກວ່າ"
+  },
+  "txt_sieuxe_helper_desc4": {
+    "vi": "đứng trước.",
+    "en": "in front of the way",
+    "my": "ရှေ့တွင်ရှိသောဉပမာများကိုကြည့်ပါ",
+    "lo": "ນຳໜ້າ"
+  },
+  "txt_symbol": {
+    "vi": "biểu tượng",
+    "en": "symbols",
+    "my": "အိုင်ကွန်",
+    "lo": "ສັນຍາລັກ"
+  },
+  "txt_zeus_helper_desc": {
+    "vi": "Khi bạn có ít nhất 3 biểu tượng Bonus ở vị trí bất kỳ sẽ được chơi minigame tìm cổ vật để nhận những phần thưởng đặc biệt.",
+    "en": "When you have at lease 3 Bonus symbols at every single position, you can play mini game to get special reward from us.",
+    "my": "သင့်တွင် မည်သည့်အနေထားတွင်မဆို အပိုဆု သင်္ကေတ 3 ခုထက်မနည်းရှိပါက အထူးဆု\nများရရှိရန် ပစ္စည်းများကို ရှာဖွေရန်\nမီနီဂိမ်းကို ကစားနိုင်မည်ဖြစ်သည်။",
+    "lo": "ເມື່ອເຈົ້າມີສັນຍາລັກໂບນັດ 3 ສັນຍາລັກຢູ່ທຸກຕຳແໜ່ງ, ເຈົ້າສາມາດຫຼິ້ນເກມມິນິເພື່ອຮັບລາງວັນພິເສດຈາກພວກເຮົາ."
+  },
+  "txt_zeus_helper_desc1": {
+    "vi": "- Wild có thể thay thế cho tất cả các biểu tượng trừ Bonus, Free Spin, Jackpot để tạo ra nhiều giá trị chiến thắng lớn hơn.",
+    "en": "- Wild can replace all symbols on main game except Bonus, Free Spin, Jackpot in order to create more big reward.",
+    "my": "- Wild သည် ပိုမိုကြီးမားသောဆုလာဘ်များဖန်တီးရန်အတွက် Bonus Free Spin Jackpot မှလွဲ၍ အဓိကဂိမ်းရှိ သင်္ကေတအားလုံးကို အစားထိုးနိုင် သည်",
+    "lo": "- Wild ສາມາດປ່ຽນແທນສັນຍາລັກທັງໝົດຢູ່ໃນເກມຫຼັກຍົກເວັ້ນໂບນັດ, ສະປິນຟຣີ, Jackpot ເພື່ອສ້າງລາງວັນໃຫຍ່ກວ່າ."
+  },
+  "txt_zeus_helper_desc2": {
+    "vi": "- WILD chỉ xuất hiện ở màn chơi chính.",
+    "en": "- WILD only appears on main game screen.",
+    "my": "- WILD သည် အဓိကအဆင့်တွင်သာ ပေါ်လာသည်။.",
+    "lo": "- WILD ປາກົດຢູ່ໃນຫນ້າຈໍເກມຫຼັກເທົ່ານັ້ນ."
+  },
+  "txt_zeus_helper_desc3": {
+    "vi": "BẠN SẼ NHẬN ĐƯỢC JACKPOT NẾU CÓ ĐỦ BIỂU TƯỢNG JACKPOT",
+    "en": "YOU CAN RECEIVE JACKPOT WHEN YOU HAVE ENOUGH JACKPOT SYMBOLS",
+    "my": "Jackpot သင်္ကေတများ အလုံအလောက်ရှိလျှင် Jackpot ရရှိနိုင်ပါမည်",
+    "lo": "ເຈົ້າສາມາດໄດ້ຮັບ jackpot ເມື່ອເຈົ້າມີສັນຍາລັກ jackpot ພຽງພໍ"
+  },
+  "txt_nickname_required": {
+    "vi": "Tên hiển thị *",
+    "en": "Nickname *",
+    "my": "အမည်ပြောင် *",
+    "lo": "ຊື່ຫຼິ້ນ *"
+  },
+  "txt_nickname_desc1": {
+    "vi": "Vui lòng đặt Nickname của bạn.",
+    "en": "Enter your Nickname.",
+    "my": "သင်၏ Nickname ကိုထည့်ပါ။",
+    "lo": "ໃສ່ຊື່ຫຼິ້ນຂອງເຈົ້າ"
+  },
+  "txt_nickname_desc2": {
+    "vi": "(Nickname chỉ được đặt một lần duy nhất)",
+    "en": "(Nickname is unique)",
+    "my": "(Nickname သည် ထူးခြားသည်။)",
+    "lo": "(ສາມາດຕັ້ງຊື່ຫຼິ້ນໄດ້ເທື່ອດຽວເທົ່ານັ້ນ)"
+  },
+  "txt_poker_hand": {
+    "vi": "Nhóm bài",
+    "en": "Win Combination",
+    "my": "Win Combination",
+    "lo": "ກຸ່ມໄພ່"
+  },
+  "txt_color_red": {
+    "vi": "Đỏ",
+    "en": "Red",
+    "my": "အနီရောင်",
+    "lo": "ສີແດງ"
+  },
+  "txt_color_black": {
+    "vi": "Đen",
+    "en": "Black",
+    "my": "အမဲရောင်",
+    "lo": "ດຳ"
+  },
+  "txt_current_balance": {
+    "vi": "Số dư còn lại:",
+    "en": "Current Balance:",
+    "my": "လက်ကျန်ငွေ",
+    "lo": "ຍອດເງິນປະຈຸບັນ"
+  },
+  "txt_six_people": {
+    "vi": "6 người",
+    "en": "6 people",
+    "my": "လူ ၆ ယောက်",
+    "lo": "6 ຄົນ"
+  },
+  "txt_nine_people": {
+    "vi": "9 người",
+    "en": "9 people",
+    "my": "လူ ၉ ယောက်",
+    "lo": "9 ຄົນ"
+  },
+  "txt_buyin_title": {
+    "vi": "Thêm",
+    "en": "Buy",
+    "my": "ဝယ်ပါ။",
+    "lo": "ເພີ່ມເຕີມ"
+  },
+  "txt_mail_empty": {
+    "vi": "Hòm thư trống",
+    "en": "Mailbox is empty",
+    "my": "Mailbox တွင်ဘာမှမရှိပါ။",
+    "lo": "ກ່ອງຈົດໝາຍຫວ່າງເປົ່າ"
+  },
+  "txt_sell_gold": {
+    "vi": "Bán GOLD cho",
+    "en": "Sell GOLD to",
+    "my": "GOLD ရောင်း ရန်",
+    "lo": "ຂາຍ GOLD ເຖິງ"
+  },
+  "txt_receive_nickname": {
+    "vi": "Tên người nhận",
+    "en": "Receiver's Nickname",
+    "my": "လက်ခံသူ၏ Nickname",
+    "lo": "ຊື່ຜູ້ຮັບ"
+  },
+  "txt_transfer_description1": {
+    "vi": "Nickname là tên hiển trị trong game, không phải tên tài khoản đăng nhập. Các giao dịch chuyển nhầm tên tài khoản là không hợp lệ và không được hoàn lại. Bạn vui lòng kiểm tra lại nickname  trước khi thực hiện giao dịch.",
+    "en": "Any transfer transactions with wrong nickname is invalid and not refund. Please check your nickname again before make any transactions.",
+    "my": "မှားယွင်းသော Nickname ဖြင့် လွှဲပြောင်းပေးသည့် လွှဲပြောင်းမှုတိုင်းသည် အကျုံးမဝင်သလို ငွေပြန်အမ်းမည်မဟုတ်ပါ။ အရောင်းအ၀ယ်မလုပ်မီ သင်၏ nicknameကို ထပ်မံစစ်ဆေးပါ။",
+    "lo": "ທຸລະກໍາການໂອນເງິນໃດໆທີ່ມີຊື່ຫຼິ້ນບໍ່ຖືກຕ້ອງແມ່ນບໍ່ຖືກຕ້ອງແລະບໍ່ໄດ້ຄືນເງິນ. ກະລຸນາກວດເບິ່ງຊື່ຫຼິ້ນຂອງທ່ານອີກຄັ້ງກ່ອນທີ່ຈະເຮັດທຸລະກໍາໃດໆ."
+  },
+  "txt_transfer_description2": {
+    "vi": "Phí 5% với các giao dịch chuyển tiền không qua đại lý.",
+    "en": "5% fees to any transactions without agency.",
+    "my": "အေဂျင်စီမပါဘဲမည့်သည့်ငွေပေးငွေယူအတွက် အတွက်မဆို 5% ကောက်ခံမည်ဖြစ်သည်။",
+    "lo": "ຄ່າທຳນຽມ 5% ຕໍ່ກັບທຸລະກໍາການໂອນເງິນ ບໍ່ຜ່ານຕົວແທນ."
+  },
+  "txt_warning": {
+    "vi": "Chú ý:",
+    "en": "Warning:",
+    "my": "သတိပေးချက်:",
+    "lo": "ເອົາ​ໃຈ​ໃສ່:"
+  },
+  "txt_no_limit": {
+    "vi": "Không giới hạn giá trị giao dịch tối đa và số lần giao dịch trong ngày",
+    "en": "No maximum transactions and transaction value limit everyday",
+    "my": "နေ့စဥ် အများဆုံးငွေပေးငွေယူနှင့် အရောင်းဝယ်တန်ဖိုးကိုကန့်သတ်ထားခြင်းမရှိပါ။",
+    "lo": "ມູນຄ່າການເຮັດທຸລະກໍາສູງສຸດບໍ່ຈໍາກັດແລະຈໍານວນການເຮັດທຸລະກໍາຕໍ່ມື້"
+  },
+  "txt_rule_sell_gold": {
+    "vi": "Quy định bán GOLD",
+    "en": "GOLD SELLING RULE",
+    "my": "GOLD အရောင်းစည်းမျဉ်း",
+    "lo": " ກົດລະບຽບການຂາຍGOLD"
+  },
+  "txt_exchange_rate": {
+    "vi": "Tỉ lệ quy đổi:",
+    "en": "Exchange Rate",
+    "my": "ငွေလဲလှယ်နှုန်း",
+    "lo": "ອັດ​ຕາ​ແລກ​ປ່ຽນ"
+  },
+  "txt_zeus_bonus_win1": {
+    "vi": "Bạn vừa thắng",
+    "en": "You win",
+    "my": "မင်းအနိုင်ရပါတယ်။",
+    "lo": "ເຈົ້າ​ຊະ​ນະ"
+  },
+  "txt_zeus_bonus_win2": {
+    "vi": "TRONG GAME BONUS",
+    "en": "IN BONUS GAME",
+    "my": "IN BONUS GAME",
+    "lo": "IN BONUS GAME"
+  },
+  "txt_roulette_guide1": {
+    "vi": "ĐẶT LẠI CÁC SỐ CỦA PHIÊN TRƯỚC VỚI SỐ TIỀN GẤP ĐÔI",
+    "en": "REBET THE SAME NUMBERS AS PREVIOUS SESSION WITH DOUBLE VALUE.",
+    "my": "တန်ဖိုးနှစ်ဆဖြင့်ယခင် session တွင်အလားတူနံပါတ်များကိုပြန်လောင်းပါ",
+    "lo": "ຮີເຊດຈຳພວກຕົວເລກໂດຍຈຳນວນເງີນສອງເທົ່າ"
+  },
+  "txt_roulette_guide2": {
+    "vi": "ĐẶT LẠI CÁC SỐ VỚI SỐ TIỀN CỦA PHIÊN TRƯỚC ĐÓ.",
+    "en": "REBET THE SAME NUMBERS WITH THE SAME VALUE AS PREVIOUS SESSION.",
+    "my": "ယခင်sessionတွင် တူညီသောတန်ဖိုးဖြင့် တူညီသောနံပါတ်များကို ပြန်လောင်းပါ",
+    "lo": "ຮີເຊດຕົວເລກໂດຍຈຳນວນເງີນກ່ອນຫນ້ານີ້"
+  },
+  "txt_intro_game1": {
+    "vi": "Tham gia nhóm",
+    "en": "Join group",
+    "my": "အဖွဲ့ ဝင်ပါ။",
+    "lo": "ເຂົ້າຮ່ວມກຸ່ມ"
+  },
+  "txt_intro_game2": {
+    "vi": "nhận thông tin chính thức từ",
+    "en": "to receive official notification from",
+    "my": "ထံမှတရားဝင်အကြောင်းကြားစာလက်ခံရရှိသည်",
+    "lo": "ໄດ້ຮັບຂໍ້ມູນຢ່າງເປັນທາງການຈາກ"
+  },
+  "txt_not_display": {
+    "vi": "Không hiển thị nữa!",
+    "en": "Not display again!",
+    "my": "ထပ်မပြတော့ပါဘူး။",
+    "lo": "ບໍ່ສະແດງອີກ"
+  },
+  "txt_bigwin": {
+    "vi": "Thắng Lớn",
+    "en": "BIG WIN",
+    "my": "BIG WIN",
+    "lo": "BIG WIN"
+  },
+  "txt_content_copied_successfully": {
+    "vi": "Sao chép thành công",
+    "en": "Copy successfully",
+    "my": "ကော်ပီ အောင်မြင်ပါတယ်။",
+    "lo": "ສຳເນົາສຳເລັດແລ້ວ"
+  },
+  "txt_topup": {
+    "vi": "Thẻ cào",
+    "en": "TOP UP",
+    "my": "TOP UP",
+    "lo": "TOP UP"
+  },
+  "txt_bank_number": {
+    "vi": "Số TK",
+    "en": "Bank Number",
+    "my": "Bank Number",
+    "lo": "ໝາຍເລກທະນາຄານ"
+  },
+  "txt_bank_owner": {
+    "vi": "Chủ TK",
+    "en": "Bank Owner",
+    "my": "Bank Owner",
+    "lo": "ເຈົ້າຂອງບັນຊີ"
+  },
+  "txt_bank_method": {
+    "vi": "Phương thức",
+    "en": "Method",
+    "my": "Method",
+    "lo": "ວິທີການ"
+  },
+  "txt_bank_content": {
+    "vi": "Nội dung",
+    "en": "Content",
+    "my": "အကြောင်းအရာ",
+    "lo": "ເນື້ອໃນ"
+  },
+  "txt_bank_transfer": {
+    "vi": "Chuyển tiền vào tài khoản",
+    "en": "Transfer money to",
+    "my": "Transfer money to",
+    "lo": "ໂອນເງິນເຂົ້າບັນຊີ"
+  },
+  "txt_transfer_warning": {
+    "vi": "Tính năng hiện tại chỉ hỗ trợ chuyển khoản tới đại lý",
+    "en": "This feature only supports transferring money to agency",
+    "my": "ဤအင်္ဂါရပ်သည် အေဂျင်စီထံသို့ ငွေလွှဲခြင်းကိုသာ ပံ့ပိုးပေးပါသည်။",
+    "lo": "ຄຸນສົມບັດນີ້ຮອງຮັບພຽງແຕ່ການໂອນເງິນໄປຫາຕົວແທນເທົ່ານັ້ນ"
+  },
+  "txt_last_balance": {
+    "vi": "Số dư cuối",
+    "en": "Last Balance",
+    "my": "နောက်ဆုံးလက်ကျန်",
+    "lo": "ຍອດເງິນສຸດທ້າຍ"
+  },
+  "txt_wallet": {
+    "vi": "Ví Điện Tử",
+    "en": "Wallet",
+    "my": "Wallet",
+    "lo": "Wallet"
+  },
+  "txt_multiplier": {
+    "vi": "Hệ số nhân:",
+    "en": "Multiplier",
+    "my": "Multiplier",
+    "lo": "Multiplier"
+  },
+  "txt_statistic": {
+    "vi": "Thống kê",
+    "en": "Statistic",
+    "my": "Statistic",
+    "lo": "ສະຖິຕິ"
+  },
+  "txt_fold_poker": {
+    "vi": "Bỏ bài",
+    "en": "Fold",
+    "my": "Fold",
+    "lo": "Fold"
+  },
+  "txt_call_poker": {
+    "vi": "Theo",
+    "en": "Call",
+    "my": "Call",
+    "lo": "Call"
+  },
+  "txt_check_poker": {
+    "vi": "Xem",
+    "en": "Check",
+    "my": "Check",
+    "lo": "Check"
+  },
+  "txt_raise_poker": {
+    "vi": "Tố",
+    "en": "Raise",
+    "my": "Raise",
+    "lo": "Raise"
+  },
+  "txt_poker_newhand": {
+    "vi": "Ván mới chuẩn bị bắt đầu",
+    "en": "Waiting for new hand",
+    "my": "ဂိမ်းအသစ် စတင်ပါတော့မည်။",
+    "lo": "ເກມໃໝ່ກຳລັງຈະເລີ່ມ"
+  },
+  "txt_not_enough_info": {
+    "vi": "Bạn chưa nhập đủ thông tin rút tiền.",
+    "en": "You still don't fill all the information.",
+    "my": "You still don't fill all the information.",
+    "lo": "You still don't fill all the information."
+  },
+  "txt_withdraw_wallet": {
+    "vi": "Ví",
+    "en": "Balance",
+    "my": "Balance",
+    "lo": "Balance"
+  },
+  "txt_withdraw_remaining": {
+    "vi": "Còn Lại",
+    "en": "Remaining",
+    "my": "Remaining",
+    "lo": "Remaining"
+  },
+  "txt_withdraw_transaction_amount": {
+    "vi": "Tiền GD",
+    "en": "Amount",
+    "my": "Amount",
+    "lo": "Amount"
+  },
+  "txt_withdraw_bank_number": {
+    "vi": "Số TK Nhận",
+    "en": "Wallet Number",
+    "my": "Wallet Number",
+    "lo": "Wallet Number"
+  },
+  "txt_withdraw_bank_owner": {
+    "vi": "Tên TK Nhận",
+    "en": "Wallet Owner",
+    "my": "Wallet Owner",
+    "lo": "Wallet Owner"
+  },
+  "txt_withdraw_fill_info": {
+    "vi": "Nhập Thông Tin TK Nhận",
+    "en": "Fill Wallet Information",
+    "my": "Fill Wallet Information",
+    "lo": "Fill Wallet Information"
+  },
+  "txt_skm_bank": {
+    "vi": "Chương",
+    "en": "Bank",
+    "my": "Bank",
+    "lo": "Bank"
+  },
+  "txt_skm_extracard": {
+    "vi": "Rút",
+    "en": "Draw",
+    "my": "Draw",
+    "lo": "Draw"
+  },
+  "txt_skm_bankercall": {
+    "vi": "Chương Gọi",
+    "en": "Banker Call",
+    "my": "Banker Call",
+    "lo": "Banker Call"
+  },
+  "txt_skm_maintain": {
+    "vi": "Game đang bảo trì",
+    "en": "Game is not available",
+    "my": "Game is not available",
+    "lo": "Game is not available"
+  },
+  "txt_skm_cannotjoinroom": {
+    "vi": "Không thể vào phòng chơi này",
+    "en": "Cannot join this room",
+    "my": "Cannot join this room",
+    "lo": "Cannot join this room"
+  },
+  "txt_skm_kicknotbet": {
+    "vi": "Bạn bị đuổi khỏi bàn vì không cược !!!",
+    "en": "You are kicked because not bet !!!",
+    "my": "You are kicked because not bet !!!",
+    "lo": "You are kicked because not bet !!!"
+  },
+  "txt_skm_plsbet": {
+    "vi": "Hãy đặt cược !!!",
+    "en": "Please bet !!!",
+    "my": "Please bet !!!",
+    "lo": "Please bet !!!"
+  },
+  "txt_skm_extracardifwant": {
+    "vi": "Rút bài thứ 3 nếu muốn !!!",
+    "en": "Take extra card if needed!!!",
+    "my": "Take extra card if needed!!!",
+    "lo": "Take extra card if needed!!!"
+  },
+  "txt_skm_startround": {
+    "vi": "Bắt đầu vòng chơi mới",
+    "en": "Start new round",
+    "my": "Start new round",
+    "lo": "Start new round"
+  },
+  "txt_skm_infobankercall1": {
+    "vi": "Banker sẽ rút tiền sau",
+    "en": "Banker will end after",
+    "my": "Banker will end after",
+    "lo": "Banker will end after"
+  },
+  "txt_skm_infobankercall2": {
+    "vi": "lượt nữa",
+    "en": "turns",
+    "my": "turns",
+    "lo": "turns"
+  },
+  "txt_skm_notenoughtminchip": {
+    "vi": "Không đủ tiền tối thiểu để cược",
+    "en": "Not enough min chip to bet",
+    "my": "Not enough min chip to bet",
+    "lo": "Not enough min chip to bet"
+  },
+  "txt_skm_bet": {
+    "vi": "CƯỢC",
+    "en": "BET",
+    "my": "BET",
+    "lo": "BET"
+  },
+  "txt_skm_more": {
+    "vi": "THÊM",
+    "en": "MORE",
+    "my": "MORE",
+    "lo": "MORE"
+  },
+  "txt_skm_askcall": {
+    "vi": "Bạn chắc chắn muốn gọi ?",
+    "en": "Do you want call ?",
+    "my": "Do you want call ?",
+    "lo": "Do you want call ?"
+  },
+  "txt_skm_roomfull": {
+    "vi": "Phòng chơi đã đầy !!!",
+    "en": "Room is full !!!",
+    "my": "Room is full !!!",
+    "lo": "Room is full !!!"
+  },
+  "txt_slot_select_lines": {
+    "vi": "Vui lòng chọn ít nhất 1 dòng",
+    "en": "Please select at least 1 line",
+    "my": "လိုင်းတစ်ခုကိုအနည်းဆုံးရွေးချယ်ပါ",
+    "lo": "ກະລຸນາເລືອກຢ່າງໜ້ອຍ 1 ແຖວ"
+  },
+  "txt_input_otp_desc": {
+    "vi": "Nhập mã OTP kích hoạt",
+    "en": "Enter OTP to activate account",
+    "my": "Enter OTP to activate account",
+    "lo": "Enter OTP to activate account"
+  },
+  "txt_feat_coming_soon": {
+    "vi": "Tính năng sắp ra mắt!",
+    "en": "Coming soon!",
+    "my": "မကြာမီလာမည်!",
+    "lo": "ໄວໆນີ້!"
+  },
+  "txt_otp_desc": {
+    "vi": "=> VUI LÒNG BẤM VÀO ĐÂY ĐỂ LẤY OTP MIỄN PHÍ!  <=",
+    "en": "=> Click here to get free OTP!  <=",
+    "my": "=> Click here to get free OTP!  <=",
+    "lo": "=> Click here to get free OTP!  <="
+  },
+  "txt_otp_used": {
+    "vi": "OTP đã được sử dụng",
+    "en": "OTP was used",
+    "my": "OTP was used",
+    "lo": "OTP was used"
+  },
+  "txt_skm_notdraw": {
+    "vi": "Không rút",
+    "en": "Not draw",
+    "my": "Not draw",
+    "lo": "Not draw"
+  },
+  "txt_skm_lose": {
+    "vi": "Thua",
+    "en": "Lose",
+    "my": "Lose",
+    "lo": "Lose"
+  },
+  "txt_charge_guide": {
+    "vi": "- Nạp tiền cực nhanh",
+    "en": "- Charge very fast",
+    "my": "- Charge very fast",
+    "lo": "- Charge very fast"
+  },
+  "txt_charge_guide1": {
+    "vi": "- Hạn mức giao dịch theo quy định\ncủa ví.",
+    "en": "- Charge limit follows by wallet's rule.",
+    "my": "- Charge limit follows by wallet's rule.",
+    "lo": "- Charge limit follows by wallet's rule."
+  },
+  "txt_charge_guide2": {
+    "vi": "- Vui lòng giữ lại thông tin chuyển tiền.",
+    "en": "- Please save your transaction history.",
+    "my": "- Please save your transaction history.",
+    "lo": "- Please save your transaction history."
+  },
+  "txt_charge_guide3": {
+    "vi": "- Kích hoạt SĐT để được chăm sóc tốt hơn.",
+    "en": "- Activate your phone number to get better support.",
+    "my": "- Activate your phone number to get better support.",
+    "lo": "- Activate your phone number to get better support."
+  },
+  "txt_charge_guide4": {
+    "vi": "- Mọi thắc mắc liên hệ trực tiếp đến kênh hỗ trợ.",
+    "en": "- If has any questions, please directly contact support.",
+    "my": "- If has any questions, please directly contact support.",
+    "lo": "- If has any questions, please directly contact support."
+  },
+  "txt_submit": {
+    "vi": "Nạp",
+    "en": "Submit",
+    "my": "Submit",
+    "lo": "Submit"
+  },
+  "txt_from_fund": {
+    "vi": "Từ quỹ:",
+    "en": "From fund:",
+    "my": "ရန်ပုံငွေမှ:",
+    "lo": "ຈາກກອງທຶນ:"
+  },
+  "txt_to_fund": {
+    "vi": "Đến quỹ:",
+    "en": "To fund:",
+    "my": "ရန်ပုံငွေရရန်:",
+    "lo": "ກັບກອງທຶນ:"
+  },
+  "txt_amount": {
+    "vi": "Số tiền",
+    "en": "Amount",
+    "my": "Amount",
+    "lo": "Amount"
+  },
+  "txt_real_transfer": {
+    "vi": "Thực chuyển:",
+    "en": "Money transfer:",
+    "my": "ငွေလွဲခြင်း:",
+    "lo": "ໂອນ​ເງິນ:"
+  },
+  "txt_transfer_wallet": {
+    "vi": "Chuyển ví",
+    "en": "Exchange",
+    "my": "ချိန်းတယ်။",
+    "lo": "ແລກ​ປ່ຽນ"
+  },
+  "txt_transfer_note": {
+    "vi": "+ Tỷ lệ quy đổi {0} \n+ Tối thiểu {1}",
+    "en": "+ Exchange rate {0} \n+ Minimum is {1}",
+    "my": "+ ငွေလဲနှုန်း {0} \n+ အနိမ့်ဆုံးမှာ {1} ဖြစ်ပြီး အမြင့်ဆုံးမှာ",
+    "lo": "+ ອັດຕາການປ່ຽນແປງ {0} \n+ ຂັ້ນຕ່ຳ {1}"
+  },
+  "txt_transfer_error1": {
+    "vi": "Tối thiểu 100.000, tối đa 100M",
+    "en": "Minimum is 100.000, maximum is 100M",
+    "my": "အနိမ့်ဆုံးက 100,000 ဖြစ်ပြီး အမြင့်ဆုံးက 100M ဖြစ်ပါတယ်။",
+    "lo": "ຂັ້ນຕ່ຳແມ່ນ 100,000, ສູງສຸດແມ່ນ 100M"
+  },
+  "txt_transfer_error2": {
+    "vi": "Có lỗi xảy ra, vui lòng thử lại sau!",
+    "en": "Transfer error, please try again later!",
+    "my": "လွှဲပြောင်းမှုအမှား၊ ကျေးဇူးပြု၍ နောက်မှထပ်ကြိုးစားပါ။",
+    "lo": "ການໂອນຜິດພາດ, ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ!"
+  },
+  "txt_transfer_error3": {
+    "vi": "Partner wallet balance not enough",
+    "en": "Partner wallet balance not enough",
+    "my": "Partner wallet balance not enough",
+    "lo": "Partner wallet balance not enough"
+  },
+  "txt_transfer_error4": {
+    "vi": "Tối thiểu {0}",
+    "en": "Minimum is {0}",
+    "my": "အနိမ့်ဆုံးက {0}",
+    "lo": "ຂັ້ນຕ່ຳແມ່ນ {0}"
+  },
+  "txt_transfer_error5": {
+    "vi": "Nhập số tiền không đúng",
+    "en": "Amount is not valid",
+    "my": "Amount is not valid",
+    "lo": "Amount is not valid"
+  },
+  "txt_transfer_successful": {
+    "vi": "Giao dịch thành công",
+    "en": "Transfer successful",
+    "my": "Transfer successful",
+    "lo": "Transfer successful"
+  },
+  "txt_refund_transfer": {
+    "vi": "Hoàn:",
+    "en": "Refund:",
+    "my": "ပြန်အမ်းငွေ",
+    "lo": "ເງິນຄືນ"
+  },
+  "txt_login_session_expired": {
+    "vi": "Phiên đăng nhập đã hết hạn. Vui lòng đăng nhập lại!",
+    "en": "Your session was expired. Please login again!",
+    "my": "Your session was expired. Please login again!",
+    "lo": "Your session was expired. Please login again!"
+  },
+  "txt_baucua_bau": {
+    "vi": "Bầu",
+    "en": "Gourd",
+    "my": "Gourd",
+    "lo": "Gourd"
+  },
+  "txt_baucua_cua": {
+    "vi": "Cua",
+    "en": "Crab",
+    "my": "Crab",
+    "lo": "Crab"
+  },
+  "txt_baucua_tom": {
+    "vi": "Tôm",
+    "en": "Prawn",
+    "my": "Prawn",
+    "lo": "Prawn"
+  },
+  "txt_baucua_ca": {
+    "vi": "Cá",
+    "en": "Fish",
+    "my": "Fish",
+    "lo": "Fish"
+  },
+  "txt_baucua_nai": {
+    "vi": "Nai",
+    "en": "Deer",
+    "my": "Deer",
+    "lo": "Deer"
+  },
+  "txt_baucua_ga": {
+    "vi": "Gà",
+    "en": "Chicken",
+    "my": "Chicken",
+    "lo": "Chicken"
+  },
+  "txt_change_pass_successfully": {
+    "vi": "Đổi mật khẩu thành công!",
+    "en": "Password changed successfully!",
+    "my": "Password ေအာင္ျမင္စြာေျပာင္းလဲၿပီးျဖစ္ပါသည္။!",
+    "lo": "ລະຫັດຜ່ານບໍ່ຄືກັນ!"
+  },
+  "txt_old_password": {
+    "vi": "Mật khẩu hiện tại",
+    "en": "Current Password",
+    "my": "Current Password",
+    "lo": "ລະຫັດຜ່ານບໍ່ຄືກັນ!"
+  },
+  "txt_reenter_new_password": {
+    "vi": "Nhập lại mật khẩu mới",
+    "en": "Retype new password",
+    "my": "Retype new password",
+    "lo": "ລະຫັດຜ່ານບໍ່ຄືກັນ!"
+  },
+  "txt_enter_new_password1": {
+    "vi": "Nhập mật khẩu mới",
+    "en": "Enter new password",
+    "my": "Enter new password",
+    "lo": "ລະຫັດຜ່ານບໍ່ຄືກັນ!"
+  },
+  "txt_fish_multiplier": {
+    "vi": "Hệ số thưởng cá",
+    "en": "Fish reward multiplier",
+    "my": "Fish reward multiplier",
+    "lo": "Fish reward multiplier"
+  },
+  "txt_fish_exchange": {
+    "vi": "Đổi",
+    "en": "Exchange",
+    "my": "Exchange",
+    "lo": "Exchange"
+  },
+  "txt_fish_money_exchange": {
+    "vi": "Đổi Tiền",
+    "en": "Money Exchange",
+    "my": "Money Exchange",
+    "lo": "Money Exchange"
+  },
+  "txt_xocdia_rebet": {
+    "vi": "Cược Lại",
+    "en": "Rebet",
+    "my": "Rebet",
+    "lo": "Rebet"
+  },
+  "txt_xocdia_4_black": {
+    "vi": "4 Đỏ",
+    "en": "4 Red",
+    "my": "4 Red",
+    "lo": "4 Red"
+  },
+  "txt_xocdia_4_white": {
+    "vi": "4 Trắng",
+    "en": "4 White",
+    "my": "4 White",
+    "lo": "4 White"
+  },
+  "txt_xocdia_1_black_3_white": {
+    "vi": "3 Trắng",
+    "en": "3 White",
+    "my": "3 White",
+    "lo": "3 White"
+  },
+  "txt_xocdia_1_white_3_black": {
+    "vi": "3 Đỏ",
+    "en": "3 Red",
+    "my": "3 Red",
+    "lo": "3 Red"
+  },
+  "txt_xocdia_2_white": {
+    "vi": "2 Trắng",
+    "en": "2 White",
+    "my": "2 White",
+    "lo": "2 White"
+  },
+  "txt_action_failed": {
+    "vi": "Thao tác thất bại, vui lòng thử lại sau.",
+    "en": "Action is failed. Please try again!",
+    "my": "Action is failed. Please try again!",
+    "lo": "Action is failed. Please try again!"
+  },
+  "txt_action_kicked_out": {
+    "vi": "Bạn bị mời ra khỏi phòng do không thao tác trong thời gian dài.",
+    "en": "You are kicked out the room because of not actioning for a long time.",
+    "my": "You are kicked out the room because of not actioning for a long time.",
+    "lo": "You are kicked out the room because of not actioning for a long time."
+  },
+  "txt_transaction_note": {
+    "vi": "Ghi chú",
+    "en": "Note",
+    "my": "Note",
+    "lo": "Note"
+  },
+  "txt_processing": {
+    "vi": "Đang xử lý",
+    "en": "Processing",
+    "my": "Processing",
+    "lo": "Processing"
+  },
+  "txt_rejected": {
+    "vi": "Bác Bỏ",
+    "en": "Rejected",
+    "my": "Rejected",
+    "lo": "Rejected"
+  },
+  "txt_expired": {
+    "vi": "Hết Hạn",
+    "en": "Expired",
+    "my": "Expired",
+    "lo": "Expired"
+  },
+  "txt_approved": {
+    "vi": "Chấp thuận",
+    "en": "Approved",
+    "my": "Approved",
+    "lo": "Approved"
+  },
+  "txt_withdraw": {
+    "vi": "Rút",
+    "en": "Withdraw",
+    "my": "Withdraw",
+    "lo": "Withdraw"
+  },
+  "txt_xocdia_notification1": {
+    "vi": "Chơi game Xóc Đĩa ở chế độ toàn màn hình cho trải nghiệm tốt nhất.",
+    "en": "Play Sedie in fullscreen mode for the best experience.",
+    "my": "Play Sedie in fullscreen mode for the best experience.",
+    "lo": "Play Sedie in fullscreen mode for the best experience."
+  },
+  "txt_baucua_notification1": {
+    "vi": "Chơi game Bầu Cua ở chế độ toàn màn hình cho trải nghiệm tốt nhất.",
+    "en": "Play Kla Klouk in fullscreen mode for the best experience.",
+    "my": "Play Kla Klouk in fullscreen mode for the best experience.",
+    "lo": "Play Kla Klouk in fullscreen mode for the best experience."
+  },
+  "txt_mission_bet": {
+    "vi": "Đặt cược thành công ",
+    "en": "Successful bet ",
+    "my": "Successful bet ",
+    "lo": "Successful bet "
+  },
+  "txt_mission_totalbet": {
+    "vi": "Tổng cược ",
+    "en": "Total bet ",
+    "my": "Total bet ",
+    "lo": "Total bet "
+  },
+  "txt_mission_at": {
+    "vi": " ở",
+    "en": " at",
+    "my": " at",
+    "lo": " at"
+  },
+  "txt_mission_times": {
+    "vi": " ván",
+    "en": " times",
+    "my": " times",
+    "lo": " times"
+  },
+  "txt_first_deposit": {
+    "vi": "NẠP LẦN ĐẦU",
+    "en": "FIRST DEPOSIT",
+    "my": "FIRST DEPOSIT",
+    "lo": "FIRST DEPOSIT"
+  },
+  "txt_daily_deposit": {
+    "vi": "NẠP HÀNG NGÀY",
+    "en": "DAILY DEPOSIT",
+    "my": "DAILY DEPOSIT",
+    "lo": "DAILY DEPOSIT"
+  },
+  "txt_claim_mission": {
+    "vi": "Nhận",
+    "en": "Claim",
+    "my": "Claim",
+    "lo": "Claim"
+  },
+  "txt_deposit_bonus": {
+    "vi": "THƯỞNG NẠP",
+    "en": "DEPOSIT BONUS",
+    "my": "DEPOSIT BONUS",
+    "lo": "DEPOSIT BONUS"
+  },
+  "txt_user_reference": {
+    "vi": "MỜI THÊM BẠN",
+    "en": "REFERENCE",
+    "my": "REFERENCE",
+    "lo": "REFERENCE"
+  },
+  "txt_user_reference_rank": {
+    "vi": "Cấp",
+    "en": "Level",
+    "my": "Level",
+    "lo": "Level"
+  },
+  "txt_reference_description0": {
+    "vi": "-Mời bạn bè để nhận hoa hồng.",
+    "en": "-Invite friends to receive commission",
+    "my": "-Invite friends to receive commission",
+    "lo": "-Invite friends to receive commission"
+  },
+  "txt_reference_invited_members": {
+    "vi": "-Số bạn bè đã mời:",
+    "en": "-Number of invited members:",
+    "my": "-Number of invited members:",
+    "lo": "-Number of invited members:"
+  },
+  "txt_reference_current_commission": {
+    "vi": "-Hoa hồng tạm tính:",
+    "en": "-Current commission:",
+    "my": "-Current commission:",
+    "lo": "-Current commission:"
+  },
+  "txt_reference_enter_ref_code": {
+    "vi": "-Nhập mã giới thiệu",
+    "en": "-Enter ref code",
+    "my": "-Enter ref code",
+    "lo": "-Enter ref code"
+  },
+  "txt_reference_total_charge": {
+    "vi": "Tổng nạp thành viên",
+    "en": "Total charge from members",
+    "my": "Total charge from members",
+    "lo": "Total charge from members"
+  },
+  "txt_commission_rate": {
+    "vi": "Hoa hồng:",
+    "en": "Commission Percent:",
+    "my": "Commission Percent:",
+    "lo": "Commission Percent:"
+  },
+  "txt_reference_code_error0": {
+    "vi": "Mã giới thiệu không được để trống!",
+    "en": "Reference code cannot be empty!",
+    "my": "Reference code cannot be empty!",
+    "lo": "Reference code cannot be empty!"
+  },
+  "txt_display_name_not_exist_ref": {
+    "vi": "Sai mã giới thiệu!",
+    "en": "Reference code is wrong!",
+    "my": "Reference code is wrong!",
+    "lo": "Reference code is wrong!"
+  },
+  "txt_update_ref_successfully": {
+    "vi": "Mã giới thiệu cập nhật thành công.",
+    "en": "Reference code is updated successfully.",
+    "my": "Reference code is updated successfully.",
+    "lo": "Reference code is updated successfully."
+  },
+  "txt_ref_activate_phone": {
+    "vi": "-Kích hoạt SĐT để nhận hoa hồng.",
+    "en": "-Activate phone number to receive commission.",
+    "my": "-Activate phone number to receive commission.",
+    "lo": "-Activate phone number to receive commission."
+  },
+  "txt_commission_log_display_name": {
+    "vi": "User con",
+    "en": "Reference User",
+    "my": "Reference User",
+    "lo": "Reference User"
+  },
+  "txt_commission": {
+    "vi": "Hoa hồng",
+    "en": "Commission",
+    "my": "Commission",
+    "lo": "Commission"
+  },
+  "txt_commission_log_charge_amount": {
+    "vi": "Tiền nạp",
+    "en": "Charge Amount",
+    "my": "Charge Amount",
+    "lo": "Charge Amount"
+  },
+  "txt_megapoker_royalflush": {
+    "vi": "Thùng Phá Sảnh ACE",
+    "en": "Royal Flush",
+    "my": "Royal Flush",
+    "lo": "Royal Flush"
+  },
+  "txt_megapoker_straightflush": {
+    "vi": "Thùng Phá Sảnh",
+    "en": "Straight Flush",
+    "my": "Straight Flush",
+    "lo": "Straight Flush"
+  },
+  "txt_megapoker_4kind_ace": {
+    "vi": "Tứ Quý Át",
+    "en": "Four Of A Kind ACE",
+    "my": "Four Of A Kind ACE",
+    "lo": "Four Of A Kind ACE"
+  },
+  "txt_megapoker_4kind_jqk": {
+    "vi": "Tứ Quý J-Q-K",
+    "en": "Four Of A Kind J-Q-K",
+    "my": "Four Of A Kind J-Q-K",
+    "lo": "Four Of A Kind J-Q-K"
+  },
+  "txt_megapoker_4kind_210": {
+    "vi": "Tứ Quý 2 đến 10",
+    "en": "Four Of A Kind 2 to 10",
+    "my": "Four Of A Kind 2 to 10",
+    "lo": "Four Of A Kind 2 to 10"
+  },
+  "txt_megapoker_fullhouse": {
+    "vi": "Cù Lũ",
+    "en": "Fullhouse",
+    "my": "Fullhouse",
+    "lo": "Fullhouse"
+  },
+  "txt_megapoker_flush": {
+    "vi": "Thùng",
+    "en": "Flush",
+    "my": "Flush",
+    "lo": "Flush"
+  },
+  "txt_megapoker_straight": {
+    "vi": "Sảnh",
+    "en": "Straight",
+    "my": "Straight",
+    "lo": "Straight"
+  },
+  "txt_megapoker_3kind": {
+    "vi": "Xám",
+    "en": "Three Of A Kind",
+    "my": "Three Of A Kind",
+    "lo": "Three Of A Kind"
+  },
+  "txt_megapoker_2pairs": {
+    "vi": "Thú",
+    "en": "Two Pairs",
+    "my": "Two Pairs",
+    "lo": "Two Pairs"
+  },
+  "txt_megapoker_pair_jplus": {
+    "vi": "Đôi J trở lên",
+    "en": "Pair J plus",
+    "my": "Pair J plus",
+    "lo": "Pair J plus"
+  },
+  "txt_megapoker_pair_jplus_hand": {
+    "vi": "Đôi J+",
+    "en": "Pair J+",
+    "my": "Pair J+",
+    "lo": "Pair J+"
+  },
+  "txt_mission_daily": {
+    "vi": "Hàng ngày",
+    "en": "Daily",
+    "my": "Daily",
+    "lo": "Daily"
+  },
+  "txt_mission_bonus": {
+    "vi": "KHUYẾN MÃI",
+    "en": "BONUS",
+    "my": "BONUS",
+    "lo": "BONUS"
+  },
+  "txt_charge_input_amount": {
+    "vi": "Nhập tiền nạp",
+    "en": "Enter amount",
+    "my": "Enter amount",
+    "lo": "Enter amount"
+  },
+  "txt_charge_create_transation_successfully": {
+    "vi": "TẠO PHIẾU GIAO DỊCH THÀNH CÔNG",
+    "en": "CREATE TRANSACTION SUCCESSFULLY",
+    "my": "CREATE TRANSACTION SUCCESSFULLY",
+    "lo": "CREATE TRANSACTION SUCCESSFULLY"
+  },
+  "txt_nickname_existed": {
+    "vi": "Tên nhân vật đã tồn tại",
+    "en": "Nickname is already existed",
+    "my": "Nickname is already existed",
+    "lo": "ຊື່ຫຼິ້ນ"
+  },
+  "txt_nickname_not_existed": {
+    "vi": "Tên nhân vật không tồn tại",
+    "en": "Nickname is not existed",
+    "my": "Nickname is not existed",
+    "lo": "ຊື່ຫຼິ້ນ"
+  },
+  "txt_charge_card_number_empty": {
+    "vi": "Mã thẻ không được để trống!",
+    "en": "Card number cannot be empty!",
+    "my": "Card number cannot be empty!",
+    "lo": "Card number cannot be empty!"
+  },
+  "txt_charge_card_serial_empty": {
+    "vi": "Serial thẻ không được để trống!",
+    "en": "Card serial cannot be empty!",
+    "my": "Card serial cannot be empty!",
+    "lo": "Card serial cannot be empty!"
+  },
+  "txt_agency_not_found": {
+    "vi": "Không tìm thấy đại lý",
+    "en": "Agency not found",
+    "my": "Agency not found",
+    "lo": "Agency not found"
+  },
+  "txt_mailbox_mail_delete": {
+    "vi": "Bạn có chắc chắn muốn xóa thư này?",
+    "en": "Are you sure you want to delete this mail?",
+    "my": "Are you sure you want to delete this mail?",
+    "lo": "Are you sure you want to delete this mail?"
+  },
+  "txt_mailbox_mail_delete_successfully": {
+    "vi": "Xóa thư thành công",
+    "en": "Delete mail successfully",
+    "my": "Delete mail successfully",
+    "lo": "Delete mail successfully"
+  },
+  "txt_transfer_successfully": {
+    "vi": "Chuyển tiền thành công",
+    "en": "Transfer successfully",
+    "my": "Transfer successfully",
+    "lo": "Transfer successfully"
+  },
+  "txt_daga_bet_money_empty": {
+    "vi": "Vui lòng nhập số tiền cược!",
+    "en": "Please enter bet money!",
+    "my": "Please enter bet money!",
+    "lo": "Please enter bet money!"
+  },
+  "txt_daga_create_handicap_successfully": {
+    "vi": "Tạo kèo thành công!",
+    "en": "Create handicap successfully!",
+    "my": "Create handicap successfully!",
+    "lo": "Create handicap successfully!"
+  },
+  "txt_daga_cancel_handicap_successfully": {
+      "vi": "Hủy kèo thành công!",
+      "en": "Cancel handicap successfully!",
+      "my": "Cancel handicap successfully!",
+      "lo": "Cancel handicap successfully!"
+  },
+  "txt_daga_lock_bet": {
+    "vi": "Trận đấu đã khóa.",
+    "en": "Match is locked",
+    "my": "Match is locked",
+    "lo": "Match is locked"
+  },
+  "txt_daga_break_time": {
+    "vi": "Đang trong giờ giải lao giữa hiệp.",
+    "en": "Break time.",
+    "my": "Break time.",
+    "lo": "Break time."
+  },
+  "txt_daga_ending": {
+    "vi": "Trận đấu đã kết thúc.",
+    "en": "The match ended.",
+    "my": "The match ended.",
+    "lo": "The match ended."
+  },
+  "txt_daga_cancel_warning": {
+    "vi": "Bạn có chắc chắc muốn thực hiện hành động này không?",
+    "en": "Do you really want to do this action?",
+    "my": "Do you really want to do this action?",
+    "lo": "Do you really want to do this action?"
+  },
+  "txt_daga_bet_wrong_gate": {
+    "vi": "Chỉ được đặt 1 cửa duy nhất",
+    "en": "Please bet only 1 gate",
+    "my": "Please bet only 1 gate",
+    "lo": "Please bet only 1 gate"
+  },
+  "txt_daga_new_match": {
+    "vi": "Trường gà tổ chức thêm trận mới. Mời bạn tham gia.",
+    "en": "Cock arena organizes new match. Welcome you to join.",
+    "my": "Cock arena organizes new match. Welcome you to join.",
+    "lo": "Cock arena organizes new match. Welcome you to join."
+  },
+  "txt_daga_confirm_bet": {
+    "vi": "Bạn có chắc chắc muốn đặt vào",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_daga_confirm_tip": {
+    "vi": "Bạn có chắc chắc muốn TIP cho BLV",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_daga_tip_successfully": {
+    "vi": "Tip thành công!",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_feat_in_maintenance": {
+    "vi": "Tính năng đang bảo trì",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_daga_bet_matched": {
+    "vi": "Kèo đã khớp, không thể huỷ.",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_daga_require_charge": {
+    "vi": "Vui lòng nạp tiền để tham gia chơi!",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_action_too_fast": {
+    "vi": "Thao tác quá nhanh, vui lòng thử lại sau!",
+    "en": "Do you really want to ",
+    "my": "Do you really want to ",
+    "lo": "Do you really want to "
+  },
+  "txt_otp_expired": {
+    "vi": "OTP đã hết hạn.",
+    "my": "OTP is expired.",
+    "en": "OTP is expired.",
+    "lo": "OTP is expired."
+  },
+  "txt_daga_select_chick": {
+    "vi": "Vui lòng chọn gà",
+    "en": "Please select chicken!",
+    "my": "Please select chicken!",
+    "lo": "Please select chicken!"
+  },
+  "txt_safe_no_input": {
+    "vi": "Vui lòng nhập số tiền.",
+    "en": "Please enter transfer amount.",
+    "my": "Please enter transfer amount.",
+    "lo": "Please enter transfer amount."
+  },
+  "txt_transfer_safe_successfully": {
+    "vi": "Gửi két thành công.",
+    "en": "Send to safe successfully.",
+    "my": "Send to safe successfully.",
+    "lo": "Send to safe successfully."
+  },
+  "txt_transfer_wallet_successfully": {
+    "vi": "Rút két thành công.",
+    "en": "Withdraw from safe successfully.",
+    "my": "Withdraw from safe successfully.",
+    "lo": "Withdraw from safe successfully."
+  },
+  "txt_livestream_is_not_ready": {
+    "vi": "Hiện đang chưa có phiên livestream. Vui lòng quay lại lúc 14h-17h và 19h-23h",
+    "en": "Livestream is not ready now.",
+    "my": "Livestream is not ready now.",
+    "lo": "Livestream is not ready now."
+  },
+  "txt_description_daga_live": {
+    "vi": "Hiện tại chưa có độ. Đá gà bắt đầu từ 7h30 sáng thứ 4 5 6 7 CN hàng tuần.",
+    "en": "Livestream is not ready now.",
+    "my": "Livestream is not ready now.",
+    "lo": "Livestream is not ready now."
+  },
+  "txt_confirm_rebet_xocdia": {
+    "vi": "Bạn có chắc chắn muốn cược lại không?.",
+    "en": "Do you really want to rebet?.",
+    "my": "Do you really want to rebet?",
+    "lo": "Do you really want to rebet?"
+  },
+  "txt_confirm_double_xocdia": {
+    "vi": "Bạn có chắc chắn muốn gấp thếp không?.",
+    "en": "Do you really want to double?.",
+    "my": "Do you really want to double?",
+    "lo": "Do you really want to double?"
+  },
+  "txt_confirm_bet_xocdia": {
+    "vi": "Bạn có chắc chắn muốn đặt",
+    "en": "Do you really want to bet",
+    "my": "Do you really want to bet",
+    "lo": "Do you really want to bet"
+  },
+  "txt_get_otp_successfully": {
+    "vi": "Lấy OTP thành công",
+    "en": "Get OTP successfully",
+    "my": "Get OTP successfully",
+    "lo": "Get OTP successfully"
+  },
+  "txt_restart_bot": {
+    "vi": "Vui lòng restart bot telegram.",
+    "en": "Please restart bot telegram.",
+    "my": "Please restart bot telegram.",
+    "lo": "Please restart bot telegram."
+  }
+}
