@@ -1,5 +1,5 @@
 {
-	"domainHotupdate": "https://thitchungmamtep.pro/remote-assets",
-	"domainProd": "suonxaochuangot.pro",
-	"domainDev": "dakpuer.live"
+	"hotupdateDM": "https://hotupdate.dakpuer.live/",
+	"dmProduction": "dakpuer.live",
+	"dmDevelop": "dakpuer.live"
 }
