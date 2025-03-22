@@ -3621,5 +3621,17 @@
       "en": "Triple 6",
       "my": "Triple 6",
       "lo": "Triple 6"
+  },
+  "txt_no_captcha": {
+      "vi": "Vui lòng nhập mã Captcha",
+      "en": "Please enter Captcha",
+      "my": "Please enter Captcha",
+      "lo": "Please enter Captcha"
+  },
+  "txt_wrong_captcha": {
+      "vi": "Sai Mã Captcha",
+      "en": "Wrong Captcha",
+      "my": "Wrong Captcha",
+      "lo": "Wrong Captcha"
   }
 }
