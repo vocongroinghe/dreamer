@@ -3342,10 +3342,10 @@
     "lo": "Create handicap successfully!"
   },
   "txt_daga_cancel_handicap_successfully": {
-      "vi": "Hủy kèo thành công!",
-      "en": "Cancel handicap successfully!",
-      "my": "Cancel handicap successfully!",
-      "lo": "Cancel handicap successfully!"
+    "vi": "Hủy kèo thành công!",
+    "en": "Cancel handicap successfully!",
+    "my": "Cancel handicap successfully!",
+    "lo": "Cancel handicap successfully!"
   },
   "txt_daga_lock_bet": {
     "vi": "Trận đấu đã khóa.",
@@ -3514,7 +3514,8 @@
     "en": "5 Point",
     "my": "5 Point",
     "lo": "5 Point"
-  },"txt_tx_sicbo_6_point": {
+  },
+  "txt_tx_sicbo_6_point": {
     "vi": "Ô 6",
     "en": "6 Point",
     "my": "6 Point",
@@ -3527,111 +3528,105 @@
     "lo": "7 Point"
   },
   "txt_tx_sicbo_8_point": {
-      "vi": "Ô 8",
-      "en": "8 Point",
-      "my": "8 Point",
-      "lo": "8 Point"
+    "vi": "Ô 8",
+    "en": "8 Point",
+    "my": "8 Point",
+    "lo": "8 Point"
   },
   "txt_tx_sicbo_9_point": {
-      "vi": "Ô 9",
-      "en": "9 Point",
-      "my": "9 Point",
-      "lo": "9 Point"
+    "vi": "Ô 9",
+    "en": "9 Point",
+    "my": "9 Point",
+    "lo": "9 Point"
   },
   "txt_tx_sicbo_10_point": {
-      "vi": "Ô 10",
-      "en": "10 Point",
-      "my": "10 Point",
-      "lo": "10 Point"
+    "vi": "Ô 10",
+    "en": "10 Point",
+    "my": "10 Point",
+    "lo": "10 Point"
   },
   "txt_tx_sicbo_11_point": {
-      "vi": "Ô 11",
-      "en": "11 Point",
-      "my": "11 Point",
-      "lo": "11 Point"
+    "vi": "Ô 11",
+    "en": "11 Point",
+    "my": "11 Point",
+    "lo": "11 Point"
   },
   "txt_tx_sicbo_12_point": {
-      "vi": "Ô 12",
-      "en": "12 Point",
-      "my": "12 Point",
-      "lo": "12 Point"
+    "vi": "Ô 12",
+    "en": "12 Point",
+    "my": "12 Point",
+    "lo": "12 Point"
   },
   "txt_tx_sicbo_13_point": {
-      "vi": "Ô 13",
-      "en": "13 Point",
-      "my": "13 Point",
-      "lo": "13 Point"
+    "vi": "Ô 13",
+    "en": "13 Point",
+    "my": "13 Point",
+    "lo": "13 Point"
   },
   "txt_tx_sicbo_14_point": {
-      "vi": "Ô 14",
-      "en": "14 Point",
-      "my": "14 Point",
-      "lo": "14 Point"
+    "vi": "Ô 14",
+    "en": "14 Point",
+    "my": "14 Point",
+    "lo": "14 Point"
   },
   "txt_tx_sicbo_15_point": {
-      "vi": "Ô 15",
-      "en": "15 Point",
-      "my": "15 Point",
-      "lo": "15 Point"
+    "vi": "Ô 15",
+    "en": "15 Point",
+    "my": "15 Point",
+    "lo": "15 Point"
   },
   "txt_tx_sicbo_16_point": {
-      "vi": "Ô 16",
-      "en": "16 Point",
-      "my": "16 Point",
-      "lo": "16 Point"
+    "vi": "Ô 16",
+    "en": "16 Point",
+    "my": "16 Point",
+    "lo": "16 Point"
   },
   "txt_tx_sicbo_17_point": {
-      "vi": "Ô 17",
-      "en": "17 Point",
-      "my": "17 Point",
-      "lo": "17 Point"
+    "vi": "Ô 17",
+    "en": "17 Point",
+    "my": "17 Point",
+    "lo": "17 Point"
   },
   "txt_tx_sicbo_triple_1": {
-      "vi": "Bão 1",
-      "en": "Triple 1",
-      "my": "Triple 1",
-      "lo": "Triple 1"
+    "vi": "Bão 1",
+    "en": "Triple 1",
+    "my": "Triple 1",
+    "lo": "Triple 1"
   },
   "txt_tx_sicbo_triple_2": {
-      "vi": "Bão 2",
-      "en": "Triple 2",
-      "my": "Triple 2",
-      "lo": "Triple 2"
+    "vi": "Bão 2",
+    "en": "Triple 2",
+    "my": "Triple 2",
+    "lo": "Triple 2"
   },
   "txt_tx_sicbo_triple_3": {
-      "vi": "Bão 3",
-      "en": "Triple 3",
-      "my": "Triple 3",
-      "lo": "Triple 3"
+    "vi": "Bão 3",
+    "en": "Triple 3",
+    "my": "Triple 3",
+    "lo": "Triple 3"
   },
   "txt_tx_sicbo_triple_4": {
-      "vi": "Bão 4",
-      "en": "Triple 4",
-      "my": "Triple 4",
-      "lo": "Triple 4"
+    "vi": "Bão 4",
+    "en": "Triple 4",
+    "my": "Triple 4",
+    "lo": "Triple 4"
   },
   "txt_tx_sicbo_triple_5": {
-      "vi": "Bão 5",
-      "en": "Triple 5",
-      "my": "Triple 5",
-      "lo": "Triple 5"
+    "vi": "Bão 5",
+    "en": "Triple 5",
+    "my": "Triple 5",
+    "lo": "Triple 5"
   },
   "txt_tx_sicbo_triple_6": {
-      "vi": "Bão 6",
-      "en": "Triple 6",
-      "my": "Triple 6",
-      "lo": "Triple 6"
+    "vi": "Bão 6",
+    "en": "Triple 6",
+    "my": "Triple 6",
+    "lo": "Triple 6"
   },
-  "txt_no_captcha": {
-      "vi": "Vui lòng nhập mã Captcha",
-      "en": "Please enter Captcha",
-      "my": "Please enter Captcha",
-      "lo": "Please enter Captcha"
-  },
-  "txt_wrong_captcha": {
-      "vi": "Sai Mã Captcha",
-      "en": "Wrong Captcha",
-      "my": "Wrong Captcha",
-      "lo": "Wrong Captcha"
+  "txt_label_bao": {
+    "vi": "Bão 1:90",
+    "en": "Triple 1:90",
+    "my": "Triple 1:90",
+    "lo": "Triple 1:90"
   }
 }
