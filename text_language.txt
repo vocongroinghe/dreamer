@@ -3628,5 +3628,17 @@
     "en": "Triple 1:90",
     "my": "Triple 1:90",
     "lo": "Triple 1:90"
+  },
+  "txt_no_captcha": {
+    "vi": "Vui lòng nhập mã Captcha.",
+    "en": "Please enter captcha.",
+    "my": "Please enter captcha.",
+    "lo": "Please enter captcha."
+  },
+  "txt_wrong_captcha": {
+    "vi": "Sai mã Captcha.",
+    "en": "Wrong captcha.",
+    "my": "Wrong captcha.",
+    "lo": "Wrong captcha."
   }
 }
