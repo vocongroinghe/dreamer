@@ -3462,10 +3462,10 @@
     "lo": "Livestream is not ready now."
   },
   "txt_description_daga_live": {
-    "vi": "Hiện tại chưa có độ. Đá gà bắt đầu từ 7h30 sáng thứ 4 5 6 7 CN hàng tuần.",
-    "en": "Livestream is not ready now.",
-    "my": "Livestream is not ready now.",
-    "lo": "Livestream is not ready now."
+    "vi": "Đá gà bắt đầu từ 7h30 sáng thứ 4 5 6 7 CN hàng tuần.",
+    "en": "Chicken fights start at 7h30 am Wed, Thurs, Fri, Sat, Sun every week.",
+    "my": "Chicken fights start at 7h30 am Wed, Thurs, Fri, Sat, Sun every week.",
+    "lo": "Chicken fights start at 7h30 am Wed, Thurs, Fri, Sat, Sun every week."
   },
   "txt_confirm_rebet_xocdia": {
     "vi": "Bạn có chắc chắn muốn cược lại không?.",
