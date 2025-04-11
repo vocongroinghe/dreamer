@@ -3640,5 +3640,11 @@
     "en": "Wrong captcha.",
     "my": "Wrong captcha.",
     "lo": "Wrong captcha."
+  },
+  "txt_game_live_cancel": {
+    "vi": "Ván đấu hủy.",
+    "en": "Ván đấu hủy.",
+    "my": "Ván đấu hủy.",
+    "lo": "Ván đấu hủy."
   }
 }
