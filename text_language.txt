@@ -3462,7 +3462,7 @@
     "lo": "Livestream is not ready now."
   },
   "txt_description_daga_live": {
-    "vi": "Đá gà bắt đầu từ 7h30 sáng thứ 4 5 6 7 CN hàng tuần.",
+    "vi": "Đá gà DAKPUER bắt đầu từ 7h30 sáng thứ 4 5 6 7 CN hàng tuần.",
     "en": "Chicken fights start at 7h30 am Wed, Thurs, Fri, Sat, Sun every week.",
     "my": "Chicken fights start at 7h30 am Wed, Thurs, Fri, Sat, Sun every week.",
     "lo": "Chicken fights start at 7h30 am Wed, Thurs, Fri, Sat, Sun every week."
