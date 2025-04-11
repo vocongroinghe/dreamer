@@ -3646,5 +3646,11 @@
     "en": "Ván đấu hủy.",
     "my": "Ván đấu hủy.",
     "lo": "Ván đấu hủy."
+  },
+  "txt_nearest_session": {
+    "vi": "Phiên gần nhất",
+    "en": "Last session",
+    "my": "Last session",
+    "lo": "Last session"
   }
 }
