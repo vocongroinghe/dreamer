@@ -3652,5 +3652,11 @@
     "en": "Last session",
     "my": "Last session",
     "lo": "Last session"
+  },
+  "txt_account_locked": {
+    "vi": "Tài khoản đã bị khóa.",
+    "en": "Your account has been locked.",
+    "my": "Your account has been locked.",
+    "lo": "Your account has been locked."
   }
 }
