@@ -3635,6 +3635,42 @@
     "my": "Triple 6",
     "lo": "Triple 6"
   },
+  "txt_tx_sicbo_dice_1": {
+    "vi": "Mặt 1",
+    "en": "Dice 1",
+    "my": "Dice 1",
+    "lo": "Dice 1"
+  },
+  "txt_tx_sicbo_dice_2": {
+    "vi": "Mặt 2",
+    "en": "Dice 2",
+    "my": "Dice 2",
+    "lo": "Dice 2"
+  },
+  "txt_tx_sicbo_dice_3": {
+    "vi": "Mặt 3",
+    "en": "Dice 3",
+    "my": "Dice 3",
+    "lo": "Dice 3"
+  },
+  "txt_tx_sicbo_dice_4": {
+    "vi": "Mặt 4",
+    "en": "Dice 4",
+    "my": "Dice 4",
+    "lo": "Dice 4"
+  },
+  "txt_tx_sicbo_dice_5": {
+    "vi": "Mặt 5",
+    "en": "Dice 5",
+    "my": "Dice 5",
+    "lo": "Dice 5"
+  },
+  "txt_tx_sicbo_dice_6": {
+    "vi": "Mặt 6",
+    "en": "Dice 6",
+    "my": "Dice 6",
+    "lo": "Dice 6"
+  },
   "txt_label_bao": {
     "vi": "Bão 1:90",
     "en": "Triple 1:90",
