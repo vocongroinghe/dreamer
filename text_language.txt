@@ -3677,6 +3677,12 @@
     "my": "Triple 1:90",
     "lo": "Triple 1:90"
   },
+  "txt_label_dice": {
+    "vi": "Mặt 1:2",
+    "en": "Dice 1:2",
+    "my": "Dice 1:2",
+    "lo": "Dice 1:2"
+  },
   "txt_no_captcha": {
     "vi": "Vui lòng nhập mã Captcha.",
     "en": "Please enter captcha.",
