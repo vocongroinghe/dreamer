@@ -3462,13 +3462,13 @@
     "lo": "Livestream is not ready now."
   },
   "txt_livestream_xocdia_is_not_ready": {
-    "vi": "Hiện đang chưa có phiên livestream. Vui lòng quay lại lúc 14h-17h và 19h-23h",
+    "vi": "Xóc Đĩa livestream lúc 13h-16h và 17h-23h30",
     "en": "Livestream is not ready now.",
     "my": "Livestream is not ready now.",
     "lo": "Livestream is not ready now."
   },
   "txt_livestream_taixiu_is_not_ready": {
-    "vi": "Hiện đang chưa có phiên livestream. Vui lòng quay lại lúc 14h-17h và 19h-23h",
+    "vi": "Tài Xỉu livestream lúc 10h-13h và 16h-19h",
     "en": "Livestream is not ready now.",
     "my": "Livestream is not ready now.",
     "lo": "Livestream is not ready now."
