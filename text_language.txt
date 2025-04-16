@@ -3516,85 +3516,85 @@
     "lo": "Any triple dices"
   },
   "txt_tx_sicbo_4_point": {
-    "vi": "Ô 4",
+    "vi": "4 Điểm",
     "en": "4 Point",
     "my": "4 Point",
     "lo": "4 Point"
   },
   "txt_tx_sicbo_5_point": {
-    "vi": "Ô 5",
+    "vi": "5 Điểm",
     "en": "5 Point",
     "my": "5 Point",
     "lo": "5 Point"
   },
   "txt_tx_sicbo_6_point": {
-    "vi": "Ô 6",
+    "vi": "6 Điểm",
     "en": "6 Point",
     "my": "6 Point",
     "lo": "6 Point"
   },
   "txt_tx_sicbo_7_point": {
-    "vi": "Ô 7",
+    "vi": "7 Điểm",
     "en": "7 Point",
     "my": "7 Point",
     "lo": "7 Point"
   },
   "txt_tx_sicbo_8_point": {
-    "vi": "Ô 8",
+    "vi": "8 Điểm",
     "en": "8 Point",
     "my": "8 Point",
     "lo": "8 Point"
   },
   "txt_tx_sicbo_9_point": {
-    "vi": "Ô 9",
+    "vi": "9 Điểm",
     "en": "9 Point",
     "my": "9 Point",
     "lo": "9 Point"
   },
   "txt_tx_sicbo_10_point": {
-    "vi": "Ô 10",
+    "vi": "10 Điểm",
     "en": "10 Point",
     "my": "10 Point",
     "lo": "10 Point"
   },
   "txt_tx_sicbo_11_point": {
-    "vi": "Ô 11",
+    "vi": "11 Điểm",
     "en": "11 Point",
     "my": "11 Point",
     "lo": "11 Point"
   },
   "txt_tx_sicbo_12_point": {
-    "vi": "Ô 12",
+    "vi": "12 Điểm",
     "en": "12 Point",
     "my": "12 Point",
     "lo": "12 Point"
   },
   "txt_tx_sicbo_13_point": {
-    "vi": "Ô 13",
+    "vi": "13 Điểm",
     "en": "13 Point",
     "my": "13 Point",
     "lo": "13 Point"
   },
   "txt_tx_sicbo_14_point": {
-    "vi": "Ô 14",
+    "vi": "14 Điểm",
     "en": "14 Point",
     "my": "14 Point",
     "lo": "14 Point"
   },
   "txt_tx_sicbo_15_point": {
-    "vi": "Ô 15",
+    "vi": "15 Điểm",
     "en": "15 Point",
     "my": "15 Point",
     "lo": "15 Point"
   },
   "txt_tx_sicbo_16_point": {
-    "vi": "Ô 16",
+    "vi": "16 Điểm",
     "en": "16 Point",
     "my": "16 Point",
     "lo": "16 Point"
   },
   "txt_tx_sicbo_17_point": {
-    "vi": "Ô 17",
+    "vi": "17 Điểm",
     "en": "17 Point",
     "my": "17 Point",
     "lo": "17 Point"
