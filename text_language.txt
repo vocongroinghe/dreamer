@@ -1733,6 +1733,12 @@
     "my": "Total bet",
     "lo": "ລວມຄະແນນເດີນພັນ"
   },
+  "txt_total_bet_with_colon": {
+    "vi": "Tổng cược:",
+    "en": "Total bet:",
+    "my": "Total bet:",
+    "lo": "ລວມຄະແນນເດີນພັນ:"
+  },
   "txt_pot": {
     "vi": "Hũ",
     "en": "Jackpot",
